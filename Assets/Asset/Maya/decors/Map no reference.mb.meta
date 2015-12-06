@@ -1,0 +1,3447 @@
+fileFormatVersion: 2
+guid: b67cc12c631ef3d4e9dd225aeb552122
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cups:Cups
+    100002: Cups:polySurface18
+    100004: Cups:polySurface19
+    100006: Cups:polySurface20
+    100008: Cups:polySurface21
+    100010: Cups:polySurface22
+    100012: Entrance
+    100014: Ferris_wheel:Cabine_1
+    100016: Ferris_wheel:Cabine_2
+    100018: Ferris_wheel:Cabine_3
+    100020: Ferris_wheel:Cabine_4
+    100022: Ferris_wheel:Cabine_5
+    100024: Ferris_wheel:Cabine_6
+    100026: Ferris_wheel:Cabine_7
+    100028: Ferris_wheel:Cabine_8
+    100030: Ferris_wheel:Cabine_9
+    100032: Ferris_wheel:Ferris_Wheel
+    100034: Ferris_wheel:Pieds
+    100036: Ferris_wheel:Roue
+    100038: Gate
+    100040: Haunted_house:Dead_tree:polySurface1
+    100042: Haunted_house:Haunted_House
+    100044: Haunted_house:pCube1
+    100046: Haunted_house:pCube2
+    100048: Haunted_house:pCube3
+    100050: Haunted_house:pCube4
+    100052: Haunted_house:polySurface1
+    100054: Haunted_house:polySurface10
+    100056: Haunted_house:polySurface11
+    100058: Haunted_house:polySurface12
+    100060: Haunted_house:polySurface13
+    100062: Haunted_house:polySurface14
+    100064: Haunted_house:polySurface15
+    100066: Haunted_house:polySurface16
+    100068: Haunted_house:polySurface17
+    100070: Haunted_house:polySurface20
+    100072: Haunted_house:polySurface21
+    100074: Haunted_house:polySurface22
+    100076: Haunted_house:polySurface28
+    100078: Haunted_house:polySurface30
+    100080: Haunted_house:polySurface31
+    100082: Haunted_house:polySurface32
+    100084: Haunted_house:polySurface33
+    100086: Haunted_house:polySurface34
+    100088: Haunted_house:polySurface35
+    100090: Haunted_house:polySurface40
+    100092: Haunted_house:polySurface41
+    100094: Haunted_house:polySurface42
+    100096: Haunted_house:polySurface43
+    100098: Haunted_house:polySurface44
+    100100: Haunted_house:polySurface45
+    100102: Haunted_house:polySurface46
+    100104: Haunted_house:polySurface47
+    100106: Haunted_house:polySurface48
+    100108: Haunted_house:polySurface49
+    100110: Haunted_house:polySurface50
+    100112: Haunted_house:polySurface51
+    100114: Haunted_house:polySurface52
+    100116: Haunted_house:polySurface53
+    100118: Haunted_house:polySurface54
+    100120: Haunted_house:polySurface55
+    100122: Haunted_house:polySurface56
+    100124: Haunted_house:polySurface57
+    100126: Haunted_house:polySurface58
+    100128: Haunted_house:polySurface59
+    100130: Haunted_house:polySurface60
+    100132: Haunted_house:pPlane1
+    100134: Haunted_house:pPlane18
+    100136: Haunted_house:pPlane19
+    100138: Haunted_house:pPlane2
+    100140: Haunted_house:pPlane3
+    100142: Haunted_house:pPlane4
+    100144: Haunted_house:pPlane5
+    100146: IceCream:IceCream_Stand
+    100148: IceCream:pCylinder1
+    100150: IceCream:pCylinder2
+    100152: IceCream:pCylinder3
+    100154: IceCream:polySurface41
+    100156: IceCream:polySurface42
+    100158: IceCream:polySurface62
+    100160: IceCream:polySurface65
+    100162: IceCream:polySurface66
+    100164: IceCream:polySurface67
+    100166: IceCream:polySurface76
+    100168: IceCream:polySurface78
+    100170: IceCream:polySurface80
+    100172: Land
+    100174: //RootNode
+    100176: Park
+    100178: Park_Limit_Collision
+    100180: persp1
+    100182: polySurface10
+    100184: polySurface11
+    100186: polySurface12
+    100188: polySurface13
+    100190: polySurface14
+    100192: polySurface15
+    100194: polySurface16
+    100196: polySurface17
+    100198: polySurface18
+    100200: polySurface19
+    100202: polySurface2
+    100204: polySurface20
+    100206: polySurface21
+    100208: polySurface22
+    100210: polySurface23
+    100212: polySurface24
+    100214: polySurface25
+    100216: polySurface26
+    100218: polySurface27
+    100220: polySurface28
+    100222: polySurface29
+    100224: polySurface3
+    100226: polySurface30
+    100228: polySurface31
+    100230: polySurface32
+    100232: polySurface33
+    100234: polySurface34
+    100236: polySurface35
+    100238: polySurface36
+    100240: polySurface37
+    100242: polySurface38
+    100244: polySurface39
+    100246: polySurface4
+    100248: polySurface40
+    100250: polySurface41
+    100252: polySurface42
+    100254: polySurface43
+    100256: polySurface44
+    100258: polySurface45
+    100260: polySurface46
+    100262: polySurface47
+    100264: polySurface48
+    100266: polySurface49
+    100268: polySurface5
+    100270: polySurface50
+    100272: polySurface51
+    100274: polySurface52
+    100276: polySurface53
+    100278: polySurface54
+    100280: polySurface55
+    100282: polySurface56
+    100284: polySurface57
+    100286: polySurface58
+    100288: polySurface59
+    100290: polySurface6
+    100292: polySurface60
+    100294: polySurface61
+    100296: polySurface62
+    100298: polySurface7
+    100300: polySurface8
+    100302: polySurface9
+    100304: River
+    100306: water_slide:pCube1
+    100308: water_slide:polySurface17
+    100310: water_slide:polySurface18
+    100312: water_slide:polySurface19
+    100314: water_slide:polySurface20
+    100316: water_slide:polySurface21
+    100318: water_slide:polySurface22
+    100320: water_slide:polySurface27
+    100322: water_slide:polySurface28
+    100324: water_slide:polySurface29
+    100326: water_slide:polySurface4
+    100328: water_slide:polySurface5
+    100330: water_slide:pPlane2
+    100332: water_slide:Trees
+    100334: water_slide:WaterSlide
+    100336: Arbres
+    100338: Cups:group1
+    100340: group1
+    100342: group1 1
+    100344: group1 2
+    100346: group1 3
+    100348: group1 4
+    100350: group1 5
+    100352: group1 6
+    100354: group10
+    100356: group11
+    100358: group12
+    100360: group13
+    100362: group2
+    100364: group3
+    100366: group4
+    100368: group5
+    100370: group6
+    100372: group7
+    100374: group8
+    100376: group9
+    100378: Haunted_house:Arbre_1
+    100380: Haunted_house:Arbre_2
+    100382: Haunted_house:Arbre_3
+    100384: Haunted_house:Cheminee
+    100386: Haunted_house:Cross_1
+    100388: Haunted_house:Cross_2
+    100390: Haunted_house:Cross_3
+    100392: Haunted_house:Cross_4
+    100394: Haunted_house:Cross_5
+    100396: Haunted_house:Cross_6
+    100398: Haunted_house:Cross_7
+    100400: Haunted_house:Cross_8
+    100402: Haunted_house:Crosses
+    100404: Haunted_house:Fences
+    100406: Haunted_house:Fenetres
+    100408: Haunted_house:House
+    100410: Haunted_house:Porte
+    100412: Haunted_house:Porte1
+    100414: Haunted_house:Porte2
+    100416: Haunted_house:Toit1
+    100418: Haunted_house:Toit2
+    100420: Haunted_house:Toit3
+    100422: Haunted_house:twist1Handle
+    100424: Haunted_house:twist2Handle
+    100426: Haunted_house:twist3Handle
+    100428: pCylinder1
+    100430: pCylinder1 1
+    100432: pCylinder1 10
+    100434: pCylinder1 11
+    100436: pCylinder1 2
+    100438: pCylinder1 3
+    100440: pCylinder1 4
+    100442: pCylinder1 5
+    100444: pCylinder1 6
+    100446: pCylinder1 7
+    100448: pCylinder1 8
+    100450: pCylinder1 9
+    100452: pCylinder2
+    100454: pCylinder2 1
+    100456: pCylinder2 10
+    100458: pCylinder2 11
+    100460: pCylinder2 2
+    100462: pCylinder2 3
+    100464: pCylinder2 4
+    100466: pCylinder2 5
+    100468: pCylinder2 6
+    100470: pCylinder2 7
+    100472: pCylinder2 8
+    100474: pCylinder2 9
+    100476: pCylinder3
+    100478: pCylinder3 1
+    100480: pCylinder3 10
+    100482: pCylinder3 11
+    100484: pCylinder3 2
+    100486: pCylinder3 3
+    100488: pCylinder3 4
+    100490: pCylinder3 5
+    100492: pCylinder3 6
+    100494: pCylinder3 7
+    100496: pCylinder3 8
+    100498: pCylinder3 9
+    100500: polySurface1
+    100502: polySurface1 1
+    100504: polySurface1 2
+    100506: polySurface1 3
+    100508: polySurface1 4
+    100510: polySurface100
+    100512: polySurface101
+    100514: polySurface102
+    100516: polySurface103
+    100518: polySurface104
+    100520: polySurface105
+    100522: polySurface106
+    100524: polySurface107
+    100526: polySurface108
+    100528: polySurface109
+    100530: polySurface110
+    100532: polySurface111
+    100534: polySurface112
+    100536: polySurface113
+    100538: polySurface114
+    100540: polySurface115
+    100542: polySurface116
+    100544: polySurface117
+    100546: polySurface118
+    100548: polySurface119
+    100550: polySurface120
+    100552: polySurface121
+    100554: polySurface122
+    100556: polySurface123
+    100558: polySurface124
+    100560: polySurface125
+    100562: polySurface126
+    100564: polySurface127
+    100566: polySurface128
+    100568: polySurface129
+    100570: polySurface130
+    100572: polySurface131
+    100574: polySurface132
+    100576: polySurface133
+    100578: polySurface134
+    100580: polySurface135
+    100582: polySurface136
+    100584: polySurface137
+    100586: polySurface138
+    100588: polySurface139
+    100590: polySurface140
+    100592: polySurface141
+    100594: polySurface142
+    100596: polySurface143
+    100598: polySurface144
+    100600: polySurface145
+    100602: polySurface146
+    100604: polySurface147
+    100606: polySurface148
+    100608: polySurface149
+    100610: polySurface150
+    100612: polySurface151
+    100614: polySurface152
+    100616: polySurface153
+    100618: polySurface154
+    100620: polySurface155
+    100622: polySurface156
+    100624: polySurface157
+    100626: polySurface158
+    100628: polySurface159
+    100630: polySurface160
+    100632: polySurface161
+    100634: polySurface162
+    100636: polySurface163
+    100638: polySurface164
+    100640: polySurface165
+    100642: polySurface166
+    100644: polySurface167
+    100646: polySurface168
+    100648: polySurface169
+    100650: polySurface170
+    100652: polySurface171
+    100654: polySurface172
+    100656: polySurface173
+    100658: polySurface174
+    100660: polySurface175
+    100662: polySurface176
+    100664: polySurface177
+    100666: polySurface178
+    100668: polySurface179
+    100670: polySurface180
+    100672: polySurface181
+    100674: polySurface182
+    100676: polySurface183
+    100678: polySurface184
+    100680: polySurface185
+    100682: polySurface186
+    100684: polySurface2 1
+    100686: polySurface2 2
+    100688: polySurface2 3
+    100690: polySurface2 4
+    100692: polySurface2 5
+    100694: polySurface2 6
+    100696: polySurface3 1
+    100698: polySurface3 2
+    100700: polySurface3 3
+    100702: polySurface3 4
+    100704: polySurface3 5
+    100706: polySurface4 1
+    100708: polySurface4 2
+    100710: polySurface4 3
+    100712: polySurface4 4
+    100714: polySurface4 5
+    100716: polySurface5 1
+    100718: polySurface5 2
+    100720: polySurface5 3
+    100722: polySurface5 4
+    100724: polySurface5 5
+    100726: polySurface63
+    100728: polySurface64
+    100730: polySurface65
+    100732: polySurface66
+    100734: polySurface67
+    100736: polySurface68
+    100738: polySurface69
+    100740: polySurface70
+    100742: polySurface71
+    100744: polySurface72
+    100746: polySurface73
+    100748: polySurface74
+    100750: polySurface75
+    100752: polySurface76
+    100754: polySurface77
+    100756: polySurface78
+    100758: polySurface79
+    100760: polySurface80
+    100762: polySurface81
+    100764: polySurface82
+    100766: polySurface83
+    100768: polySurface84
+    100770: polySurface85
+    100772: polySurface86
+    100774: polySurface87
+    100776: polySurface88
+    100778: polySurface89
+    100780: polySurface90
+    100782: polySurface91
+    100784: polySurface92
+    100786: polySurface93
+    100788: polySurface94
+    100790: polySurface95
+    100792: polySurface96
+    100794: polySurface97
+    100796: polySurface98
+    100798: polySurface99
+    100800: pSphere1
+    100802: pSphere1 1
+    100804: pSphere1 10
+    100806: pSphere1 11
+    100808: pSphere1 2
+    100810: pSphere1 3
+    100812: pSphere1 4
+    100814: pSphere1 5
+    100816: pSphere1 6
+    100818: pSphere1 7
+    100820: pSphere1 8
+    100822: pSphere1 9
+    100824: pSphere2
+    100826: pSphere2 1
+    100828: pSphere2 10
+    100830: pSphere2 11
+    100832: pSphere2 2
+    100834: pSphere2 3
+    100836: pSphere2 4
+    100838: pSphere2 5
+    100840: pSphere2 6
+    100842: pSphere2 7
+    100844: pSphere2 8
+    100846: pSphere2 9
+    100848: pSphere3
+    100850: pSphere3 1
+    100852: pSphere3 10
+    100854: pSphere3 11
+    100856: pSphere3 2
+    100858: pSphere3 3
+    100860: pSphere3 4
+    100862: pSphere3 5
+    100864: pSphere3 6
+    100866: pSphere3 7
+    100868: pSphere3 8
+    100870: pSphere3 9
+    100872: Swan
+    100874: Swan1
+    100876: Swan2
+    100878: Swan3
+    100880: Swan4
+    100882: Swan5
+    100884: swan_bush:polySurface1
+    100886: swan_bush:polySurface2
+    100888: swan_bush:polySurface3
+    100890: swan_bush:polySurface4
+    100892: swan_bush:polySurface5
+    100894: tree_1:pCylinder1
+    100896: tree_1:polySurface1
+    100898: tree_1:pPlane1
+    100900: tree_1:pPlane2
+    100902: tree_1:pPlane3
+    100904: tree_1:transform1
+    100906: tree_1:transform2
+    100908: tree_1:transform3
+    100910: tree_1:transform4
+    100912: tree_1:transform5
+    100914: tree_3:group1
+    100916: tree_3:pCylinder1
+    100918: tree_3:pCylinder2
+    100920: tree_3:pCylinder3
+    100922: tree_3:pSphere1
+    100924: tree_3:pSphere2
+    100926: tree_3:pSphere3
+    100928: water_slide:Log
+    100930: water_slide:SplashArB
+    100932: water_slide:SplashArB1
+    100934: water_slide:SplashArT
+    100936: water_slide:SplashArT1
+    100938: water_slide:SplashAvB
+    100940: water_slide:SplashAvT
+    100942: Arbre_1
+    100944: Arbre_10
+    100946: Arbre_11
+    100948: Arbre_12
+    100950: Arbre_13
+    100952: Arbre_2
+    100954: Arbre_3
+    100956: Arbre_4
+    100958: Arbre_5
+    100960: Arbre_6
+    100962: Arbre_7
+    100964: Arbre_8
+    100966: Arbre_9
+    100968: Haunted_house:Lit_windows
+    100970: Haunted_house:Unlit_windows
+    100972: Haunted_house:White_windows
+    100974: Haunted_house:Window_Lit_1
+    100976: Haunted_house:Window_Lit_10
+    100978: Haunted_house:Window_Lit_11
+    100980: Haunted_house:Window_Lit_12
+    100982: Haunted_house:Window_Lit_13
+    100984: Haunted_house:Window_Lit_14
+    100986: Haunted_house:Window_Lit_15
+    100988: Haunted_house:Window_Lit_16
+    100990: Haunted_house:Window_Lit_2
+    100992: Haunted_house:Window_Lit_3
+    100994: Haunted_house:Window_Lit_4
+    100996: Haunted_house:Window_Lit_5
+    100998: Haunted_house:Window_Lit_6
+    101000: Haunted_house:Window_Lit_7
+    101002: Haunted_house:Window_Lit_8
+    101004: Haunted_house:Window_Lit_9
+    101006: Haunted_house:Window_Unlit_1
+    101008: Haunted_house:Window_Unlit_10
+    101010: Haunted_house:Window_Unlit_11
+    101012: Haunted_house:Window_Unlit_12
+    101014: Haunted_house:Window_Unlit_13
+    101016: Haunted_house:Window_Unlit_14
+    101018: Haunted_house:Window_Unlit_15
+    101020: Haunted_house:Window_Unlit_16
+    101022: Haunted_house:Window_Unlit_2
+    101024: Haunted_house:Window_Unlit_3
+    101026: Haunted_house:Window_Unlit_4
+    101028: Haunted_house:Window_Unlit_5
+    101030: Haunted_house:Window_Unlit_6
+    101032: Haunted_house:Window_Unlit_7
+    101034: Haunted_house:Window_Unlit_8
+    101036: Haunted_house:Window_Unlit_9
+    101038: Haunted_house:Window_white_1
+    101040: Haunted_house:Window_white_10
+    101042: Haunted_house:Window_white_11
+    101044: Haunted_house:Window_white_12
+    101046: Haunted_house:Window_white_13
+    101048: Haunted_house:Window_white_14
+    101050: Haunted_house:Window_white_15
+    101052: Haunted_house:Window_white_16
+    101054: Haunted_house:Window_white_2
+    101056: Haunted_house:Window_white_3
+    101058: Haunted_house:Window_white_4
+    101060: Haunted_house:Window_white_5
+    101062: Haunted_house:Window_white_6
+    101064: Haunted_house:Window_white_7
+    101066: Haunted_house:Window_white_8
+    101068: Haunted_house:Window_white_9
+    400000: Cups:Cups
+    400002: Cups:polySurface18
+    400004: Cups:polySurface19
+    400006: Cups:polySurface20
+    400008: Cups:polySurface21
+    400010: Cups:polySurface22
+    400012: Entrance
+    400014: Ferris_wheel:Cabine_1
+    400016: Ferris_wheel:Cabine_2
+    400018: Ferris_wheel:Cabine_3
+    400020: Ferris_wheel:Cabine_4
+    400022: Ferris_wheel:Cabine_5
+    400024: Ferris_wheel:Cabine_6
+    400026: Ferris_wheel:Cabine_7
+    400028: Ferris_wheel:Cabine_8
+    400030: Ferris_wheel:Cabine_9
+    400032: Ferris_wheel:Ferris_Wheel
+    400034: Ferris_wheel:Pieds
+    400036: Ferris_wheel:Roue
+    400038: Gate
+    400040: Haunted_house:Dead_tree:polySurface1
+    400042: Haunted_house:Haunted_House
+    400044: Haunted_house:pCube1
+    400046: Haunted_house:pCube2
+    400048: Haunted_house:pCube3
+    400050: Haunted_house:pCube4
+    400052: Haunted_house:polySurface1
+    400054: Haunted_house:polySurface10
+    400056: Haunted_house:polySurface11
+    400058: Haunted_house:polySurface12
+    400060: Haunted_house:polySurface13
+    400062: Haunted_house:polySurface14
+    400064: Haunted_house:polySurface15
+    400066: Haunted_house:polySurface16
+    400068: Haunted_house:polySurface17
+    400070: Haunted_house:polySurface20
+    400072: Haunted_house:polySurface21
+    400074: Haunted_house:polySurface22
+    400076: Haunted_house:polySurface28
+    400078: Haunted_house:polySurface30
+    400080: Haunted_house:polySurface31
+    400082: Haunted_house:polySurface32
+    400084: Haunted_house:polySurface33
+    400086: Haunted_house:polySurface34
+    400088: Haunted_house:polySurface35
+    400090: Haunted_house:polySurface40
+    400092: Haunted_house:polySurface41
+    400094: Haunted_house:polySurface42
+    400096: Haunted_house:polySurface43
+    400098: Haunted_house:polySurface44
+    400100: Haunted_house:polySurface45
+    400102: Haunted_house:polySurface46
+    400104: Haunted_house:polySurface47
+    400106: Haunted_house:polySurface48
+    400108: Haunted_house:polySurface49
+    400110: Haunted_house:polySurface50
+    400112: Haunted_house:polySurface51
+    400114: Haunted_house:polySurface52
+    400116: Haunted_house:polySurface53
+    400118: Haunted_house:polySurface54
+    400120: Haunted_house:polySurface55
+    400122: Haunted_house:polySurface56
+    400124: Haunted_house:polySurface57
+    400126: Haunted_house:polySurface58
+    400128: Haunted_house:polySurface59
+    400130: Haunted_house:polySurface60
+    400132: Haunted_house:pPlane1
+    400134: Haunted_house:pPlane18
+    400136: Haunted_house:pPlane19
+    400138: Haunted_house:pPlane2
+    400140: Haunted_house:pPlane3
+    400142: Haunted_house:pPlane4
+    400144: Haunted_house:pPlane5
+    400146: IceCream:IceCream_Stand
+    400148: IceCream:pCylinder1
+    400150: IceCream:pCylinder2
+    400152: IceCream:pCylinder3
+    400154: IceCream:polySurface41
+    400156: IceCream:polySurface42
+    400158: IceCream:polySurface62
+    400160: IceCream:polySurface65
+    400162: IceCream:polySurface66
+    400164: IceCream:polySurface67
+    400166: IceCream:polySurface76
+    400168: IceCream:polySurface78
+    400170: IceCream:polySurface80
+    400172: Land
+    400174: //RootNode
+    400176: Park
+    400178: Park_Limit_Collision
+    400180: persp1
+    400182: polySurface10
+    400184: polySurface11
+    400186: polySurface12
+    400188: polySurface13
+    400190: polySurface14
+    400192: polySurface15
+    400194: polySurface16
+    400196: polySurface17
+    400198: polySurface18
+    400200: polySurface19
+    400202: polySurface2
+    400204: polySurface20
+    400206: polySurface21
+    400208: polySurface22
+    400210: polySurface23
+    400212: polySurface24
+    400214: polySurface25
+    400216: polySurface26
+    400218: polySurface27
+    400220: polySurface28
+    400222: polySurface29
+    400224: polySurface3
+    400226: polySurface30
+    400228: polySurface31
+    400230: polySurface32
+    400232: polySurface33
+    400234: polySurface34
+    400236: polySurface35
+    400238: polySurface36
+    400240: polySurface37
+    400242: polySurface38
+    400244: polySurface39
+    400246: polySurface4
+    400248: polySurface40
+    400250: polySurface41
+    400252: polySurface42
+    400254: polySurface43
+    400256: polySurface44
+    400258: polySurface45
+    400260: polySurface46
+    400262: polySurface47
+    400264: polySurface48
+    400266: polySurface49
+    400268: polySurface5
+    400270: polySurface50
+    400272: polySurface51
+    400274: polySurface52
+    400276: polySurface53
+    400278: polySurface54
+    400280: polySurface55
+    400282: polySurface56
+    400284: polySurface57
+    400286: polySurface58
+    400288: polySurface59
+    400290: polySurface6
+    400292: polySurface60
+    400294: polySurface61
+    400296: polySurface62
+    400298: polySurface7
+    400300: polySurface8
+    400302: polySurface9
+    400304: River
+    400306: water_slide:pCube1
+    400308: water_slide:polySurface17
+    400310: water_slide:polySurface18
+    400312: water_slide:polySurface19
+    400314: water_slide:polySurface20
+    400316: water_slide:polySurface21
+    400318: water_slide:polySurface22
+    400320: water_slide:polySurface27
+    400322: water_slide:polySurface28
+    400324: water_slide:polySurface29
+    400326: water_slide:polySurface4
+    400328: water_slide:polySurface5
+    400330: water_slide:pPlane2
+    400332: water_slide:Trees
+    400334: water_slide:WaterSlide
+    400336: Arbres
+    400338: Cups:group1
+    400340: group1
+    400342: group1 1
+    400344: group1 2
+    400346: group1 3
+    400348: group1 4
+    400350: group1 5
+    400352: group1 6
+    400354: group10
+    400356: group11
+    400358: group12
+    400360: group13
+    400362: group2
+    400364: group3
+    400366: group4
+    400368: group5
+    400370: group6
+    400372: group7
+    400374: group8
+    400376: group9
+    400378: Haunted_house:Arbre_1
+    400380: Haunted_house:Arbre_2
+    400382: Haunted_house:Arbre_3
+    400384: Haunted_house:Cheminee
+    400386: Haunted_house:Cross_1
+    400388: Haunted_house:Cross_2
+    400390: Haunted_house:Cross_3
+    400392: Haunted_house:Cross_4
+    400394: Haunted_house:Cross_5
+    400396: Haunted_house:Cross_6
+    400398: Haunted_house:Cross_7
+    400400: Haunted_house:Cross_8
+    400402: Haunted_house:Crosses
+    400404: Haunted_house:Fences
+    400406: Haunted_house:Fenetres
+    400408: Haunted_house:House
+    400410: Haunted_house:Porte
+    400412: Haunted_house:Porte1
+    400414: Haunted_house:Porte2
+    400416: Haunted_house:Toit1
+    400418: Haunted_house:Toit2
+    400420: Haunted_house:Toit3
+    400422: Haunted_house:twist1Handle
+    400424: Haunted_house:twist2Handle
+    400426: Haunted_house:twist3Handle
+    400428: pCylinder1
+    400430: pCylinder1 1
+    400432: pCylinder1 10
+    400434: pCylinder1 11
+    400436: pCylinder1 2
+    400438: pCylinder1 3
+    400440: pCylinder1 4
+    400442: pCylinder1 5
+    400444: pCylinder1 6
+    400446: pCylinder1 7
+    400448: pCylinder1 8
+    400450: pCylinder1 9
+    400452: pCylinder2
+    400454: pCylinder2 1
+    400456: pCylinder2 10
+    400458: pCylinder2 11
+    400460: pCylinder2 2
+    400462: pCylinder2 3
+    400464: pCylinder2 4
+    400466: pCylinder2 5
+    400468: pCylinder2 6
+    400470: pCylinder2 7
+    400472: pCylinder2 8
+    400474: pCylinder2 9
+    400476: pCylinder3
+    400478: pCylinder3 1
+    400480: pCylinder3 10
+    400482: pCylinder3 11
+    400484: pCylinder3 2
+    400486: pCylinder3 3
+    400488: pCylinder3 4
+    400490: pCylinder3 5
+    400492: pCylinder3 6
+    400494: pCylinder3 7
+    400496: pCylinder3 8
+    400498: pCylinder3 9
+    400500: polySurface1
+    400502: polySurface1 1
+    400504: polySurface1 2
+    400506: polySurface1 3
+    400508: polySurface1 4
+    400510: polySurface100
+    400512: polySurface101
+    400514: polySurface102
+    400516: polySurface103
+    400518: polySurface104
+    400520: polySurface105
+    400522: polySurface106
+    400524: polySurface107
+    400526: polySurface108
+    400528: polySurface109
+    400530: polySurface110
+    400532: polySurface111
+    400534: polySurface112
+    400536: polySurface113
+    400538: polySurface114
+    400540: polySurface115
+    400542: polySurface116
+    400544: polySurface117
+    400546: polySurface118
+    400548: polySurface119
+    400550: polySurface120
+    400552: polySurface121
+    400554: polySurface122
+    400556: polySurface123
+    400558: polySurface124
+    400560: polySurface125
+    400562: polySurface126
+    400564: polySurface127
+    400566: polySurface128
+    400568: polySurface129
+    400570: polySurface130
+    400572: polySurface131
+    400574: polySurface132
+    400576: polySurface133
+    400578: polySurface134
+    400580: polySurface135
+    400582: polySurface136
+    400584: polySurface137
+    400586: polySurface138
+    400588: polySurface139
+    400590: polySurface140
+    400592: polySurface141
+    400594: polySurface142
+    400596: polySurface143
+    400598: polySurface144
+    400600: polySurface145
+    400602: polySurface146
+    400604: polySurface147
+    400606: polySurface148
+    400608: polySurface149
+    400610: polySurface150
+    400612: polySurface151
+    400614: polySurface152
+    400616: polySurface153
+    400618: polySurface154
+    400620: polySurface155
+    400622: polySurface156
+    400624: polySurface157
+    400626: polySurface158
+    400628: polySurface159
+    400630: polySurface160
+    400632: polySurface161
+    400634: polySurface162
+    400636: polySurface163
+    400638: polySurface164
+    400640: polySurface165
+    400642: polySurface166
+    400644: polySurface167
+    400646: polySurface168
+    400648: polySurface169
+    400650: polySurface170
+    400652: polySurface171
+    400654: polySurface172
+    400656: polySurface173
+    400658: polySurface174
+    400660: polySurface175
+    400662: polySurface176
+    400664: polySurface177
+    400666: polySurface178
+    400668: polySurface179
+    400670: polySurface180
+    400672: polySurface181
+    400674: polySurface182
+    400676: polySurface183
+    400678: polySurface184
+    400680: polySurface185
+    400682: polySurface186
+    400684: polySurface2 1
+    400686: polySurface2 2
+    400688: polySurface2 3
+    400690: polySurface2 4
+    400692: polySurface2 5
+    400694: polySurface2 6
+    400696: polySurface3 1
+    400698: polySurface3 2
+    400700: polySurface3 3
+    400702: polySurface3 4
+    400704: polySurface3 5
+    400706: polySurface4 1
+    400708: polySurface4 2
+    400710: polySurface4 3
+    400712: polySurface4 4
+    400714: polySurface4 5
+    400716: polySurface5 1
+    400718: polySurface5 2
+    400720: polySurface5 3
+    400722: polySurface5 4
+    400724: polySurface5 5
+    400726: polySurface63
+    400728: polySurface64
+    400730: polySurface65
+    400732: polySurface66
+    400734: polySurface67
+    400736: polySurface68
+    400738: polySurface69
+    400740: polySurface70
+    400742: polySurface71
+    400744: polySurface72
+    400746: polySurface73
+    400748: polySurface74
+    400750: polySurface75
+    400752: polySurface76
+    400754: polySurface77
+    400756: polySurface78
+    400758: polySurface79
+    400760: polySurface80
+    400762: polySurface81
+    400764: polySurface82
+    400766: polySurface83
+    400768: polySurface84
+    400770: polySurface85
+    400772: polySurface86
+    400774: polySurface87
+    400776: polySurface88
+    400778: polySurface89
+    400780: polySurface90
+    400782: polySurface91
+    400784: polySurface92
+    400786: polySurface93
+    400788: polySurface94
+    400790: polySurface95
+    400792: polySurface96
+    400794: polySurface97
+    400796: polySurface98
+    400798: polySurface99
+    400800: pSphere1
+    400802: pSphere1 1
+    400804: pSphere1 10
+    400806: pSphere1 11
+    400808: pSphere1 2
+    400810: pSphere1 3
+    400812: pSphere1 4
+    400814: pSphere1 5
+    400816: pSphere1 6
+    400818: pSphere1 7
+    400820: pSphere1 8
+    400822: pSphere1 9
+    400824: pSphere2
+    400826: pSphere2 1
+    400828: pSphere2 10
+    400830: pSphere2 11
+    400832: pSphere2 2
+    400834: pSphere2 3
+    400836: pSphere2 4
+    400838: pSphere2 5
+    400840: pSphere2 6
+    400842: pSphere2 7
+    400844: pSphere2 8
+    400846: pSphere2 9
+    400848: pSphere3
+    400850: pSphere3 1
+    400852: pSphere3 10
+    400854: pSphere3 11
+    400856: pSphere3 2
+    400858: pSphere3 3
+    400860: pSphere3 4
+    400862: pSphere3 5
+    400864: pSphere3 6
+    400866: pSphere3 7
+    400868: pSphere3 8
+    400870: pSphere3 9
+    400872: Swan
+    400874: Swan1
+    400876: Swan2
+    400878: Swan3
+    400880: Swan4
+    400882: Swan5
+    400884: swan_bush:polySurface1
+    400886: swan_bush:polySurface2
+    400888: swan_bush:polySurface3
+    400890: swan_bush:polySurface4
+    400892: swan_bush:polySurface5
+    400894: tree_1:pCylinder1
+    400896: tree_1:polySurface1
+    400898: tree_1:pPlane1
+    400900: tree_1:pPlane2
+    400902: tree_1:pPlane3
+    400904: tree_1:transform1
+    400906: tree_1:transform2
+    400908: tree_1:transform3
+    400910: tree_1:transform4
+    400912: tree_1:transform5
+    400914: tree_3:group1
+    400916: tree_3:pCylinder1
+    400918: tree_3:pCylinder2
+    400920: tree_3:pCylinder3
+    400922: tree_3:pSphere1
+    400924: tree_3:pSphere2
+    400926: tree_3:pSphere3
+    400928: water_slide:Log
+    400930: water_slide:SplashArB
+    400932: water_slide:SplashArB1
+    400934: water_slide:SplashArT
+    400936: water_slide:SplashArT1
+    400938: water_slide:SplashAvB
+    400940: water_slide:SplashAvT
+    400942: Arbre_1
+    400944: Arbre_10
+    400946: Arbre_11
+    400948: Arbre_12
+    400950: Arbre_13
+    400952: Arbre_2
+    400954: Arbre_3
+    400956: Arbre_4
+    400958: Arbre_5
+    400960: Arbre_6
+    400962: Arbre_7
+    400964: Arbre_8
+    400966: Arbre_9
+    400968: Haunted_house:Lit_windows
+    400970: Haunted_house:Unlit_windows
+    400972: Haunted_house:White_windows
+    400974: Haunted_house:Window_Lit_1
+    400976: Haunted_house:Window_Lit_10
+    400978: Haunted_house:Window_Lit_11
+    400980: Haunted_house:Window_Lit_12
+    400982: Haunted_house:Window_Lit_13
+    400984: Haunted_house:Window_Lit_14
+    400986: Haunted_house:Window_Lit_15
+    400988: Haunted_house:Window_Lit_16
+    400990: Haunted_house:Window_Lit_2
+    400992: Haunted_house:Window_Lit_3
+    400994: Haunted_house:Window_Lit_4
+    400996: Haunted_house:Window_Lit_5
+    400998: Haunted_house:Window_Lit_6
+    401000: Haunted_house:Window_Lit_7
+    401002: Haunted_house:Window_Lit_8
+    401004: Haunted_house:Window_Lit_9
+    401006: Haunted_house:Window_Unlit_1
+    401008: Haunted_house:Window_Unlit_10
+    401010: Haunted_house:Window_Unlit_11
+    401012: Haunted_house:Window_Unlit_12
+    401014: Haunted_house:Window_Unlit_13
+    401016: Haunted_house:Window_Unlit_14
+    401018: Haunted_house:Window_Unlit_15
+    401020: Haunted_house:Window_Unlit_16
+    401022: Haunted_house:Window_Unlit_2
+    401024: Haunted_house:Window_Unlit_3
+    401026: Haunted_house:Window_Unlit_4
+    401028: Haunted_house:Window_Unlit_5
+    401030: Haunted_house:Window_Unlit_6
+    401032: Haunted_house:Window_Unlit_7
+    401034: Haunted_house:Window_Unlit_8
+    401036: Haunted_house:Window_Unlit_9
+    401038: Haunted_house:Window_white_1
+    401040: Haunted_house:Window_white_10
+    401042: Haunted_house:Window_white_11
+    401044: Haunted_house:Window_white_12
+    401046: Haunted_house:Window_white_13
+    401048: Haunted_house:Window_white_14
+    401050: Haunted_house:Window_white_15
+    401052: Haunted_house:Window_white_16
+    401054: Haunted_house:Window_white_2
+    401056: Haunted_house:Window_white_3
+    401058: Haunted_house:Window_white_4
+    401060: Haunted_house:Window_white_5
+    401062: Haunted_house:Window_white_6
+    401064: Haunted_house:Window_white_7
+    401066: Haunted_house:Window_white_8
+    401068: Haunted_house:Window_white_9
+    2300000: Cups:polySurface18
+    2300002: Cups:polySurface19
+    2300004: Cups:polySurface20
+    2300006: Cups:polySurface21
+    2300008: Cups:polySurface22
+    2300010: Entrance
+    2300012: Ferris_wheel:Cabine_1
+    2300014: Ferris_wheel:Cabine_2
+    2300016: Ferris_wheel:Cabine_3
+    2300018: Ferris_wheel:Cabine_4
+    2300020: Ferris_wheel:Cabine_5
+    2300022: Ferris_wheel:Cabine_6
+    2300024: Ferris_wheel:Cabine_7
+    2300026: Ferris_wheel:Cabine_8
+    2300028: Ferris_wheel:Cabine_9
+    2300030: Ferris_wheel:Pieds
+    2300032: Ferris_wheel:Roue
+    2300034: Gate
+    2300036: Haunted_house:Dead_tree:polySurface1
+    2300038: Haunted_house:pCube1
+    2300040: Haunted_house:pCube2
+    2300042: Haunted_house:pCube3
+    2300044: Haunted_house:pCube4
+    2300046: Haunted_house:polySurface1
+    2300048: Haunted_house:polySurface10
+    2300050: Haunted_house:polySurface11
+    2300052: Haunted_house:polySurface12
+    2300054: Haunted_house:polySurface13
+    2300056: Haunted_house:polySurface14
+    2300058: Haunted_house:polySurface15
+    2300060: Haunted_house:polySurface16
+    2300062: Haunted_house:polySurface17
+    2300064: Haunted_house:polySurface20
+    2300066: Haunted_house:polySurface21
+    2300068: Haunted_house:polySurface22
+    2300070: Haunted_house:polySurface28
+    2300072: Haunted_house:polySurface30
+    2300074: Haunted_house:polySurface31
+    2300076: Haunted_house:polySurface32
+    2300078: Haunted_house:polySurface33
+    2300080: Haunted_house:polySurface34
+    2300082: Haunted_house:polySurface35
+    2300084: Haunted_house:polySurface40
+    2300086: Haunted_house:polySurface41
+    2300088: Haunted_house:polySurface42
+    2300090: Haunted_house:polySurface43
+    2300092: Haunted_house:polySurface44
+    2300094: Haunted_house:polySurface45
+    2300096: Haunted_house:polySurface46
+    2300098: Haunted_house:polySurface47
+    2300100: Haunted_house:polySurface48
+    2300102: Haunted_house:polySurface49
+    2300104: Haunted_house:polySurface50
+    2300106: Haunted_house:polySurface51
+    2300108: Haunted_house:polySurface52
+    2300110: Haunted_house:polySurface53
+    2300112: Haunted_house:polySurface54
+    2300114: Haunted_house:polySurface55
+    2300116: Haunted_house:polySurface56
+    2300118: Haunted_house:polySurface57
+    2300120: Haunted_house:polySurface58
+    2300122: Haunted_house:polySurface59
+    2300124: Haunted_house:polySurface60
+    2300126: Haunted_house:pPlane1
+    2300128: Haunted_house:pPlane18
+    2300130: Haunted_house:pPlane19
+    2300132: Haunted_house:pPlane2
+    2300134: Haunted_house:pPlane3
+    2300136: Haunted_house:pPlane4
+    2300138: Haunted_house:pPlane5
+    2300140: IceCream:pCylinder1
+    2300142: IceCream:pCylinder2
+    2300144: IceCream:pCylinder3
+    2300146: IceCream:polySurface41
+    2300148: IceCream:polySurface42
+    2300150: IceCream:polySurface62
+    2300152: IceCream:polySurface65
+    2300154: IceCream:polySurface66
+    2300156: IceCream:polySurface67
+    2300158: IceCream:polySurface76
+    2300160: IceCream:polySurface78
+    2300162: IceCream:polySurface80
+    2300164: Park
+    2300166: Park_Limit_Collision
+    2300168: polySurface10
+    2300170: polySurface11
+    2300172: polySurface12
+    2300174: polySurface13
+    2300176: polySurface14
+    2300178: polySurface15
+    2300180: polySurface16
+    2300182: polySurface17
+    2300184: polySurface18
+    2300186: polySurface19
+    2300188: polySurface2
+    2300190: polySurface20
+    2300192: polySurface21
+    2300194: polySurface22
+    2300196: polySurface23
+    2300198: polySurface24
+    2300200: polySurface25
+    2300202: polySurface26
+    2300204: polySurface27
+    2300206: polySurface28
+    2300208: polySurface29
+    2300210: polySurface3
+    2300212: polySurface30
+    2300214: polySurface31
+    2300216: polySurface32
+    2300218: polySurface33
+    2300220: polySurface34
+    2300222: polySurface35
+    2300224: polySurface36
+    2300226: polySurface37
+    2300228: polySurface38
+    2300230: polySurface39
+    2300232: polySurface4
+    2300234: polySurface40
+    2300236: polySurface41
+    2300238: polySurface42
+    2300240: polySurface43
+    2300242: polySurface44
+    2300244: polySurface45
+    2300246: polySurface46
+    2300248: polySurface47
+    2300250: polySurface48
+    2300252: polySurface49
+    2300254: polySurface5
+    2300256: polySurface50
+    2300258: polySurface51
+    2300260: polySurface52
+    2300262: polySurface53
+    2300264: polySurface54
+    2300266: polySurface55
+    2300268: polySurface56
+    2300270: polySurface57
+    2300272: polySurface58
+    2300274: polySurface59
+    2300276: polySurface6
+    2300278: polySurface60
+    2300280: polySurface61
+    2300282: polySurface62
+    2300284: polySurface7
+    2300286: polySurface8
+    2300288: polySurface9
+    2300290: water_slide:pCube1
+    2300292: water_slide:polySurface17
+    2300294: water_slide:polySurface18
+    2300296: water_slide:polySurface19
+    2300298: water_slide:polySurface20
+    2300300: water_slide:polySurface21
+    2300302: water_slide:polySurface22
+    2300304: water_slide:polySurface27
+    2300306: water_slide:polySurface28
+    2300308: water_slide:polySurface29
+    2300310: water_slide:polySurface4
+    2300312: water_slide:polySurface5
+    2300314: water_slide:pPlane2
+    2300316: Haunted_house:Arbre_1
+    2300318: Haunted_house:Arbre_2
+    2300320: Haunted_house:Arbre_3
+    2300322: Haunted_house:Cheminee
+    2300324: Haunted_house:Cross_1
+    2300326: Haunted_house:Cross_2
+    2300328: Haunted_house:Cross_3
+    2300330: Haunted_house:Cross_4
+    2300332: Haunted_house:Cross_5
+    2300334: Haunted_house:Cross_6
+    2300336: Haunted_house:Cross_7
+    2300338: Haunted_house:Cross_8
+    2300340: Haunted_house:Porte
+    2300342: Haunted_house:Porte1
+    2300344: Haunted_house:Porte2
+    2300346: Haunted_house:Toit1
+    2300348: Haunted_house:Toit2
+    2300350: Haunted_house:Toit3
+    2300352: pCylinder1
+    2300354: pCylinder1 1
+    2300356: pCylinder1 10
+    2300358: pCylinder1 11
+    2300360: pCylinder1 2
+    2300362: pCylinder1 3
+    2300364: pCylinder1 4
+    2300366: pCylinder1 5
+    2300368: pCylinder1 6
+    2300370: pCylinder1 7
+    2300372: pCylinder1 8
+    2300374: pCylinder1 9
+    2300376: pCylinder2
+    2300378: pCylinder2 1
+    2300380: pCylinder2 10
+    2300382: pCylinder2 11
+    2300384: pCylinder2 2
+    2300386: pCylinder2 3
+    2300388: pCylinder2 4
+    2300390: pCylinder2 5
+    2300392: pCylinder2 6
+    2300394: pCylinder2 7
+    2300396: pCylinder2 8
+    2300398: pCylinder2 9
+    2300400: pCylinder3
+    2300402: pCylinder3 1
+    2300404: pCylinder3 10
+    2300406: pCylinder3 11
+    2300408: pCylinder3 2
+    2300410: pCylinder3 3
+    2300412: pCylinder3 4
+    2300414: pCylinder3 5
+    2300416: pCylinder3 6
+    2300418: pCylinder3 7
+    2300420: pCylinder3 8
+    2300422: pCylinder3 9
+    2300424: polySurface1
+    2300426: polySurface1 1
+    2300428: polySurface1 2
+    2300430: polySurface1 3
+    2300432: polySurface1 4
+    2300434: polySurface100
+    2300436: polySurface101
+    2300438: polySurface102
+    2300440: polySurface103
+    2300442: polySurface104
+    2300444: polySurface105
+    2300446: polySurface106
+    2300448: polySurface107
+    2300450: polySurface108
+    2300452: polySurface109
+    2300454: polySurface110
+    2300456: polySurface111
+    2300458: polySurface112
+    2300460: polySurface113
+    2300462: polySurface114
+    2300464: polySurface115
+    2300466: polySurface116
+    2300468: polySurface117
+    2300470: polySurface118
+    2300472: polySurface119
+    2300474: polySurface120
+    2300476: polySurface121
+    2300478: polySurface122
+    2300480: polySurface123
+    2300482: polySurface124
+    2300484: polySurface125
+    2300486: polySurface126
+    2300488: polySurface127
+    2300490: polySurface128
+    2300492: polySurface129
+    2300494: polySurface130
+    2300496: polySurface131
+    2300498: polySurface132
+    2300500: polySurface133
+    2300502: polySurface134
+    2300504: polySurface135
+    2300506: polySurface136
+    2300508: polySurface137
+    2300510: polySurface138
+    2300512: polySurface139
+    2300514: polySurface140
+    2300516: polySurface141
+    2300518: polySurface142
+    2300520: polySurface143
+    2300522: polySurface144
+    2300524: polySurface145
+    2300526: polySurface146
+    2300528: polySurface147
+    2300530: polySurface148
+    2300532: polySurface149
+    2300534: polySurface150
+    2300536: polySurface151
+    2300538: polySurface152
+    2300540: polySurface153
+    2300542: polySurface154
+    2300544: polySurface155
+    2300546: polySurface156
+    2300548: polySurface157
+    2300550: polySurface158
+    2300552: polySurface159
+    2300554: polySurface160
+    2300556: polySurface161
+    2300558: polySurface162
+    2300560: polySurface163
+    2300562: polySurface164
+    2300564: polySurface165
+    2300566: polySurface166
+    2300568: polySurface167
+    2300570: polySurface168
+    2300572: polySurface169
+    2300574: polySurface170
+    2300576: polySurface171
+    2300578: polySurface172
+    2300580: polySurface173
+    2300582: polySurface174
+    2300584: polySurface175
+    2300586: polySurface176
+    2300588: polySurface177
+    2300590: polySurface178
+    2300592: polySurface179
+    2300594: polySurface180
+    2300596: polySurface181
+    2300598: polySurface182
+    2300600: polySurface183
+    2300602: polySurface184
+    2300604: polySurface185
+    2300606: polySurface186
+    2300608: polySurface2 1
+    2300610: polySurface2 2
+    2300612: polySurface2 3
+    2300614: polySurface2 4
+    2300616: polySurface2 5
+    2300618: polySurface2 6
+    2300620: polySurface3 1
+    2300622: polySurface3 2
+    2300624: polySurface3 3
+    2300626: polySurface3 4
+    2300628: polySurface3 5
+    2300630: polySurface4 1
+    2300632: polySurface4 2
+    2300634: polySurface4 3
+    2300636: polySurface4 4
+    2300638: polySurface4 5
+    2300640: polySurface5 1
+    2300642: polySurface5 2
+    2300644: polySurface5 3
+    2300646: polySurface5 4
+    2300648: polySurface5 5
+    2300650: polySurface63
+    2300652: polySurface64
+    2300654: polySurface65
+    2300656: polySurface66
+    2300658: polySurface67
+    2300660: polySurface68
+    2300662: polySurface69
+    2300664: polySurface70
+    2300666: polySurface71
+    2300668: polySurface72
+    2300670: polySurface73
+    2300672: polySurface74
+    2300674: polySurface75
+    2300676: polySurface76
+    2300678: polySurface77
+    2300680: polySurface78
+    2300682: polySurface79
+    2300684: polySurface80
+    2300686: polySurface81
+    2300688: polySurface82
+    2300690: polySurface83
+    2300692: polySurface84
+    2300694: polySurface85
+    2300696: polySurface86
+    2300698: polySurface87
+    2300700: polySurface88
+    2300702: polySurface89
+    2300704: polySurface90
+    2300706: polySurface91
+    2300708: polySurface92
+    2300710: polySurface93
+    2300712: polySurface94
+    2300714: polySurface95
+    2300716: polySurface96
+    2300718: polySurface97
+    2300720: polySurface98
+    2300722: polySurface99
+    2300724: pSphere1
+    2300726: pSphere1 1
+    2300728: pSphere1 10
+    2300730: pSphere1 11
+    2300732: pSphere1 2
+    2300734: pSphere1 3
+    2300736: pSphere1 4
+    2300738: pSphere1 5
+    2300740: pSphere1 6
+    2300742: pSphere1 7
+    2300744: pSphere1 8
+    2300746: pSphere1 9
+    2300748: pSphere2
+    2300750: pSphere2 1
+    2300752: pSphere2 10
+    2300754: pSphere2 11
+    2300756: pSphere2 2
+    2300758: pSphere2 3
+    2300760: pSphere2 4
+    2300762: pSphere2 5
+    2300764: pSphere2 6
+    2300766: pSphere2 7
+    2300768: pSphere2 8
+    2300770: pSphere2 9
+    2300772: pSphere3
+    2300774: pSphere3 1
+    2300776: pSphere3 10
+    2300778: pSphere3 11
+    2300780: pSphere3 2
+    2300782: pSphere3 3
+    2300784: pSphere3 4
+    2300786: pSphere3 5
+    2300788: pSphere3 6
+    2300790: pSphere3 7
+    2300792: pSphere3 8
+    2300794: pSphere3 9
+    2300796: swan_bush:polySurface1
+    2300798: swan_bush:polySurface2
+    2300800: swan_bush:polySurface3
+    2300802: swan_bush:polySurface4
+    2300804: swan_bush:polySurface5
+    2300806: tree_3:pCylinder1
+    2300808: tree_3:pCylinder2
+    2300810: tree_3:pCylinder3
+    2300812: tree_3:pSphere1
+    2300814: tree_3:pSphere2
+    2300816: tree_3:pSphere3
+    2300818: water_slide:Log
+    2300820: water_slide:SplashArB
+    2300822: water_slide:SplashArB1
+    2300824: water_slide:SplashArT
+    2300826: water_slide:SplashArT1
+    2300828: water_slide:SplashAvB
+    2300830: water_slide:SplashAvT
+    2300832: Haunted_house:Window_Lit_1
+    2300834: Haunted_house:Window_Lit_10
+    2300836: Haunted_house:Window_Lit_11
+    2300838: Haunted_house:Window_Lit_12
+    2300840: Haunted_house:Window_Lit_13
+    2300842: Haunted_house:Window_Lit_14
+    2300844: Haunted_house:Window_Lit_15
+    2300846: Haunted_house:Window_Lit_16
+    2300848: Haunted_house:Window_Lit_2
+    2300850: Haunted_house:Window_Lit_3
+    2300852: Haunted_house:Window_Lit_4
+    2300854: Haunted_house:Window_Lit_5
+    2300856: Haunted_house:Window_Lit_6
+    2300858: Haunted_house:Window_Lit_7
+    2300860: Haunted_house:Window_Lit_8
+    2300862: Haunted_house:Window_Lit_9
+    2300864: Haunted_house:Window_Unlit_1
+    2300866: Haunted_house:Window_Unlit_10
+    2300868: Haunted_house:Window_Unlit_11
+    2300870: Haunted_house:Window_Unlit_12
+    2300872: Haunted_house:Window_Unlit_13
+    2300874: Haunted_house:Window_Unlit_14
+    2300876: Haunted_house:Window_Unlit_15
+    2300878: Haunted_house:Window_Unlit_16
+    2300880: Haunted_house:Window_Unlit_2
+    2300882: Haunted_house:Window_Unlit_3
+    2300884: Haunted_house:Window_Unlit_4
+    2300886: Haunted_house:Window_Unlit_5
+    2300888: Haunted_house:Window_Unlit_6
+    2300890: Haunted_house:Window_Unlit_7
+    2300892: Haunted_house:Window_Unlit_8
+    2300894: Haunted_house:Window_Unlit_9
+    2300896: Haunted_house:Window_white_1
+    2300898: Haunted_house:Window_white_10
+    2300900: Haunted_house:Window_white_11
+    2300902: Haunted_house:Window_white_12
+    2300904: Haunted_house:Window_white_13
+    2300906: Haunted_house:Window_white_14
+    2300908: Haunted_house:Window_white_15
+    2300910: Haunted_house:Window_white_16
+    2300912: Haunted_house:Window_white_2
+    2300914: Haunted_house:Window_white_3
+    2300916: Haunted_house:Window_white_4
+    2300918: Haunted_house:Window_white_5
+    2300920: Haunted_house:Window_white_6
+    2300922: Haunted_house:Window_white_7
+    2300924: Haunted_house:Window_white_8
+    2300926: Haunted_house:Window_white_9
+    3300000: Cups:polySurface18
+    3300002: Cups:polySurface19
+    3300004: Cups:polySurface20
+    3300006: Cups:polySurface21
+    3300008: Cups:polySurface22
+    3300010: Entrance
+    3300012: Ferris_wheel:Cabine_1
+    3300014: Ferris_wheel:Cabine_2
+    3300016: Ferris_wheel:Cabine_3
+    3300018: Ferris_wheel:Cabine_4
+    3300020: Ferris_wheel:Cabine_5
+    3300022: Ferris_wheel:Cabine_6
+    3300024: Ferris_wheel:Cabine_7
+    3300026: Ferris_wheel:Cabine_8
+    3300028: Ferris_wheel:Cabine_9
+    3300030: Ferris_wheel:Pieds
+    3300032: Ferris_wheel:Roue
+    3300034: Gate
+    3300036: Haunted_house:Dead_tree:polySurface1
+    3300038: Haunted_house:pCube1
+    3300040: Haunted_house:pCube2
+    3300042: Haunted_house:pCube3
+    3300044: Haunted_house:pCube4
+    3300046: Haunted_house:polySurface1
+    3300048: Haunted_house:polySurface10
+    3300050: Haunted_house:polySurface11
+    3300052: Haunted_house:polySurface12
+    3300054: Haunted_house:polySurface13
+    3300056: Haunted_house:polySurface14
+    3300058: Haunted_house:polySurface15
+    3300060: Haunted_house:polySurface16
+    3300062: Haunted_house:polySurface17
+    3300064: Haunted_house:polySurface20
+    3300066: Haunted_house:polySurface21
+    3300068: Haunted_house:polySurface22
+    3300070: Haunted_house:polySurface28
+    3300072: Haunted_house:polySurface30
+    3300074: Haunted_house:polySurface31
+    3300076: Haunted_house:polySurface32
+    3300078: Haunted_house:polySurface33
+    3300080: Haunted_house:polySurface34
+    3300082: Haunted_house:polySurface35
+    3300084: Haunted_house:polySurface40
+    3300086: Haunted_house:polySurface41
+    3300088: Haunted_house:polySurface42
+    3300090: Haunted_house:polySurface43
+    3300092: Haunted_house:polySurface44
+    3300094: Haunted_house:polySurface45
+    3300096: Haunted_house:polySurface46
+    3300098: Haunted_house:polySurface47
+    3300100: Haunted_house:polySurface48
+    3300102: Haunted_house:polySurface49
+    3300104: Haunted_house:polySurface50
+    3300106: Haunted_house:polySurface51
+    3300108: Haunted_house:polySurface52
+    3300110: Haunted_house:polySurface53
+    3300112: Haunted_house:polySurface54
+    3300114: Haunted_house:polySurface55
+    3300116: Haunted_house:polySurface56
+    3300118: Haunted_house:polySurface57
+    3300120: Haunted_house:polySurface58
+    3300122: Haunted_house:polySurface59
+    3300124: Haunted_house:polySurface60
+    3300126: Haunted_house:pPlane1
+    3300128: Haunted_house:pPlane18
+    3300130: Haunted_house:pPlane19
+    3300132: Haunted_house:pPlane2
+    3300134: Haunted_house:pPlane3
+    3300136: Haunted_house:pPlane4
+    3300138: Haunted_house:pPlane5
+    3300140: IceCream:pCylinder1
+    3300142: IceCream:pCylinder2
+    3300144: IceCream:pCylinder3
+    3300146: IceCream:polySurface41
+    3300148: IceCream:polySurface42
+    3300150: IceCream:polySurface62
+    3300152: IceCream:polySurface65
+    3300154: IceCream:polySurface66
+    3300156: IceCream:polySurface67
+    3300158: IceCream:polySurface76
+    3300160: IceCream:polySurface78
+    3300162: IceCream:polySurface80
+    3300164: Park
+    3300166: Park_Limit_Collision
+    3300168: polySurface10
+    3300170: polySurface11
+    3300172: polySurface12
+    3300174: polySurface13
+    3300176: polySurface14
+    3300178: polySurface15
+    3300180: polySurface16
+    3300182: polySurface17
+    3300184: polySurface18
+    3300186: polySurface19
+    3300188: polySurface2
+    3300190: polySurface20
+    3300192: polySurface21
+    3300194: polySurface22
+    3300196: polySurface23
+    3300198: polySurface24
+    3300200: polySurface25
+    3300202: polySurface26
+    3300204: polySurface27
+    3300206: polySurface28
+    3300208: polySurface29
+    3300210: polySurface3
+    3300212: polySurface30
+    3300214: polySurface31
+    3300216: polySurface32
+    3300218: polySurface33
+    3300220: polySurface34
+    3300222: polySurface35
+    3300224: polySurface36
+    3300226: polySurface37
+    3300228: polySurface38
+    3300230: polySurface39
+    3300232: polySurface4
+    3300234: polySurface40
+    3300236: polySurface41
+    3300238: polySurface42
+    3300240: polySurface43
+    3300242: polySurface44
+    3300244: polySurface45
+    3300246: polySurface46
+    3300248: polySurface47
+    3300250: polySurface48
+    3300252: polySurface49
+    3300254: polySurface5
+    3300256: polySurface50
+    3300258: polySurface51
+    3300260: polySurface52
+    3300262: polySurface53
+    3300264: polySurface54
+    3300266: polySurface55
+    3300268: polySurface56
+    3300270: polySurface57
+    3300272: polySurface58
+    3300274: polySurface59
+    3300276: polySurface6
+    3300278: polySurface60
+    3300280: polySurface61
+    3300282: polySurface62
+    3300284: polySurface7
+    3300286: polySurface8
+    3300288: polySurface9
+    3300290: water_slide:pCube1
+    3300292: water_slide:polySurface17
+    3300294: water_slide:polySurface18
+    3300296: water_slide:polySurface19
+    3300298: water_slide:polySurface20
+    3300300: water_slide:polySurface21
+    3300302: water_slide:polySurface22
+    3300304: water_slide:polySurface27
+    3300306: water_slide:polySurface28
+    3300308: water_slide:polySurface29
+    3300310: water_slide:polySurface4
+    3300312: water_slide:polySurface5
+    3300314: water_slide:pPlane2
+    3300316: Haunted_house:Arbre_1
+    3300318: Haunted_house:Arbre_2
+    3300320: Haunted_house:Arbre_3
+    3300322: Haunted_house:Cheminee
+    3300324: Haunted_house:Cross_1
+    3300326: Haunted_house:Cross_2
+    3300328: Haunted_house:Cross_3
+    3300330: Haunted_house:Cross_4
+    3300332: Haunted_house:Cross_5
+    3300334: Haunted_house:Cross_6
+    3300336: Haunted_house:Cross_7
+    3300338: Haunted_house:Cross_8
+    3300340: Haunted_house:Porte
+    3300342: Haunted_house:Porte1
+    3300344: Haunted_house:Porte2
+    3300346: Haunted_house:Toit1
+    3300348: Haunted_house:Toit2
+    3300350: Haunted_house:Toit3
+    3300352: pCylinder1
+    3300354: pCylinder1 1
+    3300356: pCylinder1 10
+    3300358: pCylinder1 11
+    3300360: pCylinder1 2
+    3300362: pCylinder1 3
+    3300364: pCylinder1 4
+    3300366: pCylinder1 5
+    3300368: pCylinder1 6
+    3300370: pCylinder1 7
+    3300372: pCylinder1 8
+    3300374: pCylinder1 9
+    3300376: pCylinder2
+    3300378: pCylinder2 1
+    3300380: pCylinder2 10
+    3300382: pCylinder2 11
+    3300384: pCylinder2 2
+    3300386: pCylinder2 3
+    3300388: pCylinder2 4
+    3300390: pCylinder2 5
+    3300392: pCylinder2 6
+    3300394: pCylinder2 7
+    3300396: pCylinder2 8
+    3300398: pCylinder2 9
+    3300400: pCylinder3
+    3300402: pCylinder3 1
+    3300404: pCylinder3 10
+    3300406: pCylinder3 11
+    3300408: pCylinder3 2
+    3300410: pCylinder3 3
+    3300412: pCylinder3 4
+    3300414: pCylinder3 5
+    3300416: pCylinder3 6
+    3300418: pCylinder3 7
+    3300420: pCylinder3 8
+    3300422: pCylinder3 9
+    3300424: polySurface1
+    3300426: polySurface1 1
+    3300428: polySurface1 2
+    3300430: polySurface1 3
+    3300432: polySurface1 4
+    3300434: polySurface100
+    3300436: polySurface101
+    3300438: polySurface102
+    3300440: polySurface103
+    3300442: polySurface104
+    3300444: polySurface105
+    3300446: polySurface106
+    3300448: polySurface107
+    3300450: polySurface108
+    3300452: polySurface109
+    3300454: polySurface110
+    3300456: polySurface111
+    3300458: polySurface112
+    3300460: polySurface113
+    3300462: polySurface114
+    3300464: polySurface115
+    3300466: polySurface116
+    3300468: polySurface117
+    3300470: polySurface118
+    3300472: polySurface119
+    3300474: polySurface120
+    3300476: polySurface121
+    3300478: polySurface122
+    3300480: polySurface123
+    3300482: polySurface124
+    3300484: polySurface125
+    3300486: polySurface126
+    3300488: polySurface127
+    3300490: polySurface128
+    3300492: polySurface129
+    3300494: polySurface130
+    3300496: polySurface131
+    3300498: polySurface132
+    3300500: polySurface133
+    3300502: polySurface134
+    3300504: polySurface135
+    3300506: polySurface136
+    3300508: polySurface137
+    3300510: polySurface138
+    3300512: polySurface139
+    3300514: polySurface140
+    3300516: polySurface141
+    3300518: polySurface142
+    3300520: polySurface143
+    3300522: polySurface144
+    3300524: polySurface145
+    3300526: polySurface146
+    3300528: polySurface147
+    3300530: polySurface148
+    3300532: polySurface149
+    3300534: polySurface150
+    3300536: polySurface151
+    3300538: polySurface152
+    3300540: polySurface153
+    3300542: polySurface154
+    3300544: polySurface155
+    3300546: polySurface156
+    3300548: polySurface157
+    3300550: polySurface158
+    3300552: polySurface159
+    3300554: polySurface160
+    3300556: polySurface161
+    3300558: polySurface162
+    3300560: polySurface163
+    3300562: polySurface164
+    3300564: polySurface165
+    3300566: polySurface166
+    3300568: polySurface167
+    3300570: polySurface168
+    3300572: polySurface169
+    3300574: polySurface170
+    3300576: polySurface171
+    3300578: polySurface172
+    3300580: polySurface173
+    3300582: polySurface174
+    3300584: polySurface175
+    3300586: polySurface176
+    3300588: polySurface177
+    3300590: polySurface178
+    3300592: polySurface179
+    3300594: polySurface180
+    3300596: polySurface181
+    3300598: polySurface182
+    3300600: polySurface183
+    3300602: polySurface184
+    3300604: polySurface185
+    3300606: polySurface186
+    3300608: polySurface2 1
+    3300610: polySurface2 2
+    3300612: polySurface2 3
+    3300614: polySurface2 4
+    3300616: polySurface2 5
+    3300618: polySurface2 6
+    3300620: polySurface3 1
+    3300622: polySurface3 2
+    3300624: polySurface3 3
+    3300626: polySurface3 4
+    3300628: polySurface3 5
+    3300630: polySurface4 1
+    3300632: polySurface4 2
+    3300634: polySurface4 3
+    3300636: polySurface4 4
+    3300638: polySurface4 5
+    3300640: polySurface5 1
+    3300642: polySurface5 2
+    3300644: polySurface5 3
+    3300646: polySurface5 4
+    3300648: polySurface5 5
+    3300650: polySurface63
+    3300652: polySurface64
+    3300654: polySurface65
+    3300656: polySurface66
+    3300658: polySurface67
+    3300660: polySurface68
+    3300662: polySurface69
+    3300664: polySurface70
+    3300666: polySurface71
+    3300668: polySurface72
+    3300670: polySurface73
+    3300672: polySurface74
+    3300674: polySurface75
+    3300676: polySurface76
+    3300678: polySurface77
+    3300680: polySurface78
+    3300682: polySurface79
+    3300684: polySurface80
+    3300686: polySurface81
+    3300688: polySurface82
+    3300690: polySurface83
+    3300692: polySurface84
+    3300694: polySurface85
+    3300696: polySurface86
+    3300698: polySurface87
+    3300700: polySurface88
+    3300702: polySurface89
+    3300704: polySurface90
+    3300706: polySurface91
+    3300708: polySurface92
+    3300710: polySurface93
+    3300712: polySurface94
+    3300714: polySurface95
+    3300716: polySurface96
+    3300718: polySurface97
+    3300720: polySurface98
+    3300722: polySurface99
+    3300724: pSphere1
+    3300726: pSphere1 1
+    3300728: pSphere1 10
+    3300730: pSphere1 11
+    3300732: pSphere1 2
+    3300734: pSphere1 3
+    3300736: pSphere1 4
+    3300738: pSphere1 5
+    3300740: pSphere1 6
+    3300742: pSphere1 7
+    3300744: pSphere1 8
+    3300746: pSphere1 9
+    3300748: pSphere2
+    3300750: pSphere2 1
+    3300752: pSphere2 10
+    3300754: pSphere2 11
+    3300756: pSphere2 2
+    3300758: pSphere2 3
+    3300760: pSphere2 4
+    3300762: pSphere2 5
+    3300764: pSphere2 6
+    3300766: pSphere2 7
+    3300768: pSphere2 8
+    3300770: pSphere2 9
+    3300772: pSphere3
+    3300774: pSphere3 1
+    3300776: pSphere3 10
+    3300778: pSphere3 11
+    3300780: pSphere3 2
+    3300782: pSphere3 3
+    3300784: pSphere3 4
+    3300786: pSphere3 5
+    3300788: pSphere3 6
+    3300790: pSphere3 7
+    3300792: pSphere3 8
+    3300794: pSphere3 9
+    3300796: swan_bush:polySurface1
+    3300798: swan_bush:polySurface2
+    3300800: swan_bush:polySurface3
+    3300802: swan_bush:polySurface4
+    3300804: swan_bush:polySurface5
+    3300806: tree_3:pCylinder1
+    3300808: tree_3:pCylinder2
+    3300810: tree_3:pCylinder3
+    3300812: tree_3:pSphere1
+    3300814: tree_3:pSphere2
+    3300816: tree_3:pSphere3
+    3300818: water_slide:Log
+    3300820: water_slide:SplashArB
+    3300822: water_slide:SplashArB1
+    3300824: water_slide:SplashArT
+    3300826: water_slide:SplashArT1
+    3300828: water_slide:SplashAvB
+    3300830: water_slide:SplashAvT
+    3300832: Haunted_house:Window_Lit_1
+    3300834: Haunted_house:Window_Lit_10
+    3300836: Haunted_house:Window_Lit_11
+    3300838: Haunted_house:Window_Lit_12
+    3300840: Haunted_house:Window_Lit_13
+    3300842: Haunted_house:Window_Lit_14
+    3300844: Haunted_house:Window_Lit_15
+    3300846: Haunted_house:Window_Lit_16
+    3300848: Haunted_house:Window_Lit_2
+    3300850: Haunted_house:Window_Lit_3
+    3300852: Haunted_house:Window_Lit_4
+    3300854: Haunted_house:Window_Lit_5
+    3300856: Haunted_house:Window_Lit_6
+    3300858: Haunted_house:Window_Lit_7
+    3300860: Haunted_house:Window_Lit_8
+    3300862: Haunted_house:Window_Lit_9
+    3300864: Haunted_house:Window_Unlit_1
+    3300866: Haunted_house:Window_Unlit_10
+    3300868: Haunted_house:Window_Unlit_11
+    3300870: Haunted_house:Window_Unlit_12
+    3300872: Haunted_house:Window_Unlit_13
+    3300874: Haunted_house:Window_Unlit_14
+    3300876: Haunted_house:Window_Unlit_15
+    3300878: Haunted_house:Window_Unlit_16
+    3300880: Haunted_house:Window_Unlit_2
+    3300882: Haunted_house:Window_Unlit_3
+    3300884: Haunted_house:Window_Unlit_4
+    3300886: Haunted_house:Window_Unlit_5
+    3300888: Haunted_house:Window_Unlit_6
+    3300890: Haunted_house:Window_Unlit_7
+    3300892: Haunted_house:Window_Unlit_8
+    3300894: Haunted_house:Window_Unlit_9
+    3300896: Haunted_house:Window_white_1
+    3300898: Haunted_house:Window_white_10
+    3300900: Haunted_house:Window_white_11
+    3300902: Haunted_house:Window_white_12
+    3300904: Haunted_house:Window_white_13
+    3300906: Haunted_house:Window_white_14
+    3300908: Haunted_house:Window_white_15
+    3300910: Haunted_house:Window_white_16
+    3300912: Haunted_house:Window_white_2
+    3300914: Haunted_house:Window_white_3
+    3300916: Haunted_house:Window_white_4
+    3300918: Haunted_house:Window_white_5
+    3300920: Haunted_house:Window_white_6
+    3300922: Haunted_house:Window_white_7
+    3300924: Haunted_house:Window_white_8
+    3300926: Haunted_house:Window_white_9
+    4300000: Park
+    4300002: polySurface2
+    4300004: polySurface3
+    4300006: polySurface4
+    4300008: polySurface5
+    4300010: polySurface6
+    4300012: polySurface7
+    4300014: polySurface8
+    4300016: polySurface9
+    4300018: polySurface10
+    4300020: polySurface11
+    4300022: polySurface12
+    4300024: polySurface13
+    4300026: polySurface62
+    4300028: polySurface61
+    4300030: polySurface60
+    4300032: polySurface59
+    4300034: polySurface58
+    4300036: polySurface57
+    4300038: polySurface56
+    4300040: polySurface55
+    4300042: polySurface54
+    4300044: polySurface53
+    4300046: polySurface52
+    4300048: polySurface51
+    4300050: polySurface50
+    4300052: polySurface49
+    4300054: polySurface48
+    4300056: polySurface47
+    4300058: polySurface46
+    4300060: polySurface45
+    4300062: polySurface44
+    4300064: polySurface43
+    4300066: polySurface42
+    4300068: polySurface41
+    4300070: polySurface40
+    4300072: polySurface39
+    4300074: polySurface38
+    4300076: polySurface37
+    4300078: polySurface36
+    4300080: polySurface35
+    4300082: polySurface34
+    4300084: polySurface33
+    4300086: polySurface32
+    4300088: polySurface31
+    4300090: polySurface30
+    4300092: polySurface29
+    4300094: polySurface28
+    4300096: polySurface27
+    4300098: polySurface26
+    4300100: polySurface25
+    4300102: polySurface24
+    4300104: polySurface23
+    4300106: polySurface22
+    4300108: polySurface21
+    4300110: polySurface20
+    4300112: polySurface19
+    4300114: polySurface18
+    4300116: polySurface17
+    4300118: polySurface16
+    4300120: polySurface15
+    4300122: polySurface14
+    4300124: Gate
+    4300126: Entrance
+    4300128: Ferris_wheel:Roue
+    4300130: Ferris_wheel:Cabine_1
+    4300132: Ferris_wheel:Cabine_2
+    4300134: Ferris_wheel:Cabine_3
+    4300136: Ferris_wheel:Cabine_4
+    4300138: Ferris_wheel:Cabine_5
+    4300140: Ferris_wheel:Cabine_6
+    4300142: Ferris_wheel:Cabine_7
+    4300144: Ferris_wheel:Cabine_8
+    4300146: Ferris_wheel:Cabine_9
+    4300148: Ferris_wheel:Pieds
+    4300150: IceCream:pCylinder1
+    4300152: IceCream:pCylinder2
+    4300154: IceCream:polySurface76
+    4300156: IceCream:polySurface41
+    4300158: IceCream:polySurface78
+    4300160: IceCream:polySurface42
+    4300162: IceCream:polySurface80
+    4300164: IceCream:polySurface62
+    4300166: IceCream:polySurface65
+    4300168: IceCream:polySurface66
+    4300170: IceCream:polySurface67
+    4300172: IceCream:pCylinder3
+    4300174: Haunted_house:Dead_tree:polySurface1
+    4300176: Haunted_house:polySurface1
+    4300178: Haunted_house:pCube1
+    4300180: Haunted_house:pCube2
+    4300182: Haunted_house:pCube3
+    4300184: Haunted_house:pCube4
+    4300186: Haunted_house:pPlane1
+    4300188: Haunted_house:pPlane2
+    4300190: Haunted_house:pPlane3
+    4300192: Haunted_house:pPlane4
+    4300194: Haunted_house:pPlane5
+    4300196: Haunted_house:polySurface10
+    4300198: Haunted_house:polySurface11
+    4300200: Haunted_house:polySurface12
+    4300202: Haunted_house:polySurface13
+    4300204: Haunted_house:polySurface14
+    4300206: Haunted_house:polySurface15
+    4300208: Haunted_house:polySurface16
+    4300210: Haunted_house:polySurface17
+    4300212: Haunted_house:polySurface20
+    4300214: Haunted_house:polySurface21
+    4300216: Haunted_house:polySurface22
+    4300218: Haunted_house:polySurface28
+    4300220: Haunted_house:polySurface30
+    4300222: Haunted_house:polySurface31
+    4300224: Haunted_house:polySurface32
+    4300226: Haunted_house:polySurface33
+    4300228: Haunted_house:polySurface34
+    4300230: Haunted_house:polySurface35
+    4300232: Haunted_house:polySurface40
+    4300234: Haunted_house:polySurface41
+    4300236: Haunted_house:polySurface42
+    4300238: Haunted_house:polySurface43
+    4300240: Haunted_house:polySurface44
+    4300242: Haunted_house:pPlane18
+    4300244: Haunted_house:polySurface45
+    4300246: Haunted_house:polySurface46
+    4300248: Haunted_house:polySurface47
+    4300250: Haunted_house:polySurface48
+    4300252: Haunted_house:polySurface49
+    4300254: Haunted_house:polySurface50
+    4300256: Haunted_house:polySurface51
+    4300258: Haunted_house:polySurface52
+    4300260: Haunted_house:polySurface53
+    4300262: Haunted_house:polySurface54
+    4300264: Haunted_house:polySurface55
+    4300266: Haunted_house:polySurface56
+    4300268: Haunted_house:polySurface57
+    4300270: Haunted_house:polySurface59
+    4300272: Haunted_house:polySurface60
+    4300274: Haunted_house:polySurface58
+    4300276: Haunted_house:pPlane19
+    4300278: Cups:polySurface18
+    4300280: Cups:polySurface19
+    4300282: Cups:polySurface20
+    4300284: Cups:polySurface21
+    4300286: Cups:polySurface22
+    4300288: water_slide:pCube1
+    4300290: water_slide:pPlane2
+    4300292: water_slide:polySurface4
+    4300294: water_slide:polySurface5
+    4300296: water_slide:polySurface27
+    4300298: water_slide:polySurface28
+    4300300: water_slide:polySurface29
+    4300302: water_slide:polySurface19
+    4300304: water_slide:polySurface18
+    4300306: water_slide:polySurface17
+    4300308: water_slide:polySurface20
+    4300310: water_slide:polySurface21
+    4300312: water_slide:polySurface22
+    4300314: Park_Limit_Collision
+    4300316: polySurface69
+    4300318: polySurface68
+    4300320: polySurface67
+    4300322: polySurface66
+    4300324: polySurface65
+    4300326: polySurface64
+    4300328: polySurface63
+    4300330: polySurface2
+    4300332: polySurface122
+    4300334: polySurface70
+    4300336: polySurface71
+    4300338: polySurface72
+    4300340: polySurface73
+    4300342: polySurface74
+    4300344: polySurface75
+    4300346: polySurface76
+    4300348: polySurface77
+    4300350: polySurface78
+    4300352: polySurface79
+    4300354: polySurface80
+    4300356: polySurface81
+    4300358: polySurface82
+    4300360: polySurface83
+    4300362: polySurface84
+    4300364: polySurface85
+    4300366: polySurface86
+    4300368: polySurface87
+    4300370: polySurface88
+    4300372: polySurface89
+    4300374: polySurface90
+    4300376: polySurface91
+    4300378: polySurface92
+    4300380: polySurface93
+    4300382: polySurface94
+    4300384: polySurface95
+    4300386: polySurface96
+    4300388: polySurface97
+    4300390: polySurface98
+    4300392: polySurface99
+    4300394: polySurface100
+    4300396: polySurface101
+    4300398: polySurface102
+    4300400: polySurface103
+    4300402: polySurface104
+    4300404: polySurface105
+    4300406: polySurface106
+    4300408: polySurface107
+    4300410: polySurface108
+    4300412: polySurface109
+    4300414: polySurface110
+    4300416: polySurface111
+    4300418: polySurface112
+    4300420: polySurface113
+    4300422: polySurface114
+    4300424: polySurface115
+    4300426: polySurface116
+    4300428: polySurface117
+    4300430: polySurface118
+    4300432: polySurface119
+    4300434: polySurface120
+    4300436: polySurface121
+    4300438: polySurface184
+    4300440: polySurface183
+    4300442: polySurface182
+    4300444: polySurface181
+    4300446: polySurface180
+    4300448: polySurface179
+    4300450: polySurface178
+    4300452: polySurface177
+    4300454: polySurface176
+    4300456: polySurface175
+    4300458: polySurface174
+    4300460: polySurface173
+    4300462: polySurface172
+    4300464: polySurface171
+    4300466: polySurface170
+    4300468: polySurface169
+    4300470: polySurface168
+    4300472: polySurface167
+    4300474: polySurface166
+    4300476: polySurface165
+    4300478: polySurface164
+    4300480: polySurface163
+    4300482: polySurface162
+    4300484: polySurface161
+    4300486: polySurface160
+    4300488: polySurface159
+    4300490: polySurface158
+    4300492: polySurface157
+    4300494: polySurface156
+    4300496: polySurface155
+    4300498: polySurface154
+    4300500: polySurface153
+    4300502: polySurface152
+    4300504: polySurface151
+    4300506: polySurface150
+    4300508: polySurface149
+    4300510: polySurface148
+    4300512: polySurface147
+    4300514: polySurface146
+    4300516: polySurface145
+    4300518: polySurface144
+    4300520: polySurface143
+    4300522: polySurface142
+    4300524: polySurface141
+    4300526: polySurface140
+    4300528: polySurface139
+    4300530: polySurface138
+    4300532: polySurface137
+    4300534: polySurface136
+    4300536: polySurface135
+    4300538: polySurface134
+    4300540: polySurface133
+    4300542: polySurface132
+    4300544: polySurface131
+    4300546: polySurface130
+    4300548: polySurface129
+    4300550: polySurface128
+    4300552: polySurface127
+    4300554: polySurface126
+    4300556: polySurface125
+    4300558: polySurface124
+    4300560: polySurface186
+    4300562: polySurface185
+    4300564: polySurface123
+    4300566: swan_bush:polySurface1
+    4300568: swan_bush:polySurface2
+    4300570: swan_bush:polySurface3
+    4300572: swan_bush:polySurface4
+    4300574: swan_bush:polySurface5
+    4300576: polySurface1
+    4300578: polySurface2
+    4300580: polySurface3
+    4300582: polySurface4
+    4300584: polySurface5
+    4300586: polySurface1
+    4300588: polySurface2
+    4300590: polySurface3
+    4300592: polySurface4
+    4300594: polySurface5
+    4300596: polySurface1
+    4300598: polySurface2
+    4300600: polySurface3
+    4300602: polySurface4
+    4300604: polySurface5
+    4300606: tree_3:pSphere1
+    4300608: tree_3:pSphere2
+    4300610: tree_3:pSphere3
+    4300612: tree_3:pCylinder1
+    4300614: tree_3:pCylinder2
+    4300616: tree_3:pCylinder3
+    4300618: pSphere1
+    4300620: pSphere2
+    4300622: pSphere3
+    4300624: pCylinder1
+    4300626: pCylinder2
+    4300628: pCylinder3
+    4300630: pSphere1
+    4300632: pSphere2
+    4300634: pSphere3
+    4300636: pCylinder1
+    4300638: pCylinder2
+    4300640: pCylinder3
+    4300642: pSphere1
+    4300644: pSphere2
+    4300646: pSphere3
+    4300648: pCylinder1
+    4300650: pCylinder2
+    4300652: pCylinder3
+    4300654: pSphere1
+    4300656: pSphere2
+    4300658: pSphere3
+    4300660: pCylinder1
+    4300662: pCylinder2
+    4300664: pCylinder3
+    4300666: pSphere1
+    4300668: pSphere2
+    4300670: pSphere3
+    4300672: pCylinder1
+    4300674: pCylinder2
+    4300676: pCylinder3
+    4300678: pSphere1
+    4300680: pSphere2
+    4300682: pSphere3
+    4300684: pCylinder1
+    4300686: pCylinder2
+    4300688: pCylinder3
+    4300690: pSphere1
+    4300692: pSphere2
+    4300694: pSphere3
+    4300696: pCylinder1
+    4300698: pCylinder2
+    4300700: pCylinder3
+    4300702: pSphere1
+    4300704: pSphere2
+    4300706: pSphere3
+    4300708: pCylinder1
+    4300710: pCylinder2
+    4300712: pCylinder3
+    4300714: pSphere1
+    4300716: pSphere2
+    4300718: pSphere3
+    4300720: pCylinder1
+    4300722: pCylinder2
+    4300724: pCylinder3
+    4300726: pSphere1
+    4300728: pSphere2
+    4300730: pSphere3
+    4300732: pCylinder1
+    4300734: pCylinder2
+    4300736: pCylinder3
+    4300738: pSphere1
+    4300740: pSphere2
+    4300742: pSphere3
+    4300744: pCylinder1
+    4300746: pCylinder2
+    4300748: pCylinder3
+    4300750: pSphere1
+    4300752: pSphere2
+    4300754: pSphere3
+    4300756: pCylinder1
+    4300758: pCylinder2
+    4300760: pCylinder3
+    4300762: polySurface1
+    4300764: polySurface2
+    4300766: polySurface3
+    4300768: polySurface4
+    4300770: polySurface5
+    4300772: polySurface1
+    4300774: polySurface2
+    4300776: polySurface3
+    4300778: polySurface4
+    4300780: polySurface5
+    4300782: Haunted_house:Arbre_1
+    4300784: Haunted_house:Arbre_2
+    4300786: Haunted_house:Arbre_3
+    4300788: Haunted_house:Cross_1
+    4300790: Haunted_house:Cross_2
+    4300792: Haunted_house:Cross_3
+    4300794: Haunted_house:Cross_4
+    4300796: Haunted_house:Cross_5
+    4300798: Haunted_house:Cross_6
+    4300800: Haunted_house:Cross_7
+    4300802: Haunted_house:Cross_8
+    4300804: Haunted_house:Toit2
+    4300806: Haunted_house:Toit3
+    4300808: Haunted_house:Porte
+    4300810: Haunted_house:Porte1
+    4300812: Haunted_house:Porte2
+    4300814: Haunted_house:Toit1
+    4300816: Haunted_house:Cheminee
+    4300818: water_slide:Log
+    4300820: water_slide:SplashAvT
+    4300822: water_slide:SplashArT
+    4300824: water_slide:SplashAvB
+    4300826: water_slide:SplashArB
+    4300828: water_slide:SplashArB1
+    4300830: water_slide:SplashArT1
+    4300832: Haunted_house:Window_Lit_1
+    4300834: Haunted_house:Window_Lit_2
+    4300836: Haunted_house:Window_Lit_3
+    4300838: Haunted_house:Window_Lit_4
+    4300840: Haunted_house:Window_Lit_5
+    4300842: Haunted_house:Window_Lit_6
+    4300844: Haunted_house:Window_Lit_7
+    4300846: Haunted_house:Window_Lit_8
+    4300848: Haunted_house:Window_Lit_9
+    4300850: Haunted_house:Window_Lit_10
+    4300852: Haunted_house:Window_Lit_11
+    4300854: Haunted_house:Window_Lit_12
+    4300856: Haunted_house:Window_Lit_13
+    4300858: Haunted_house:Window_Lit_14
+    4300860: Haunted_house:Window_Lit_15
+    4300862: Haunted_house:Window_Lit_16
+    4300864: Haunted_house:Window_Unlit_1
+    4300866: Haunted_house:Window_Unlit_2
+    4300868: Haunted_house:Window_Unlit_3
+    4300870: Haunted_house:Window_Unlit_4
+    4300872: Haunted_house:Window_Unlit_5
+    4300874: Haunted_house:Window_Unlit_6
+    4300876: Haunted_house:Window_Unlit_7
+    4300878: Haunted_house:Window_Unlit_8
+    4300880: Haunted_house:Window_Unlit_9
+    4300882: Haunted_house:Window_Unlit_10
+    4300884: Haunted_house:Window_Unlit_11
+    4300886: Haunted_house:Window_Unlit_12
+    4300888: Haunted_house:Window_Unlit_13
+    4300890: Haunted_house:Window_Unlit_14
+    4300892: Haunted_house:Window_Unlit_15
+    4300894: Haunted_house:Window_Unlit_16
+    4300896: Haunted_house:Window_white_1
+    4300898: Haunted_house:Window_white_2
+    4300900: Haunted_house:Window_white_3
+    4300902: Haunted_house:Window_white_4
+    4300904: Haunted_house:Window_white_5
+    4300906: Haunted_house:Window_white_6
+    4300908: Haunted_house:Window_white_7
+    4300910: Haunted_house:Window_white_8
+    4300912: Haunted_house:Window_white_9
+    4300914: Haunted_house:Window_white_10
+    4300916: Haunted_house:Window_white_11
+    4300918: Haunted_house:Window_white_12
+    4300920: Haunted_house:Window_white_13
+    4300922: Haunted_house:Window_white_14
+    4300924: Haunted_house:Window_white_15
+    4300926: Haunted_house:Window_white_16
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arbres
+        weight: 1
+      - path: Arbres/polySurface2
+        weight: 1
+      - path: Arbres/polySurface63
+        weight: 1
+      - path: Arbres/polySurface64
+        weight: 1
+      - path: Arbres/polySurface65
+        weight: 1
+      - path: Arbres/polySurface66
+        weight: 1
+      - path: Arbres/polySurface67
+        weight: 1
+      - path: Arbres/polySurface68
+        weight: 1
+      - path: Arbres/polySurface69
+        weight: 1
+      - path: Arbres/polySurface70
+        weight: 1
+      - path: Arbres/polySurface71
+        weight: 1
+      - path: Arbres/polySurface72
+        weight: 1
+      - path: Arbres/polySurface73
+        weight: 1
+      - path: Arbres/polySurface74
+        weight: 1
+      - path: Arbres/polySurface75
+        weight: 1
+      - path: Arbres/polySurface76
+        weight: 1
+      - path: Arbres/polySurface77
+        weight: 1
+      - path: Arbres/polySurface78
+        weight: 1
+      - path: Arbres/polySurface79
+        weight: 1
+      - path: Arbres/polySurface80
+        weight: 1
+      - path: Arbres/polySurface81
+        weight: 1
+      - path: Arbres/polySurface82
+        weight: 1
+      - path: Arbres/polySurface83
+        weight: 1
+      - path: Arbres/polySurface84
+        weight: 1
+      - path: Arbres/polySurface85
+        weight: 1
+      - path: Arbres/polySurface86
+        weight: 1
+      - path: Arbres/polySurface87
+        weight: 1
+      - path: Arbres/polySurface88
+        weight: 1
+      - path: Arbres/polySurface89
+        weight: 1
+      - path: Arbres/polySurface90
+        weight: 1
+      - path: Arbres/polySurface91
+        weight: 1
+      - path: Arbres/polySurface92
+        weight: 1
+      - path: Arbres/polySurface93
+        weight: 1
+      - path: Arbres/polySurface94
+        weight: 1
+      - path: Arbres/polySurface95
+        weight: 1
+      - path: Arbres/polySurface96
+        weight: 1
+      - path: Arbres/polySurface97
+        weight: 1
+      - path: Arbres/polySurface98
+        weight: 1
+      - path: Arbres/polySurface99
+        weight: 1
+      - path: Arbres/polySurface100
+        weight: 1
+      - path: Arbres/polySurface101
+        weight: 1
+      - path: Arbres/polySurface102
+        weight: 1
+      - path: Arbres/polySurface103
+        weight: 1
+      - path: Arbres/polySurface104
+        weight: 1
+      - path: Arbres/polySurface105
+        weight: 1
+      - path: Arbres/polySurface106
+        weight: 1
+      - path: Arbres/polySurface107
+        weight: 1
+      - path: Arbres/polySurface108
+        weight: 1
+      - path: Arbres/polySurface109
+        weight: 1
+      - path: Arbres/polySurface110
+        weight: 1
+      - path: Arbres/polySurface111
+        weight: 1
+      - path: Arbres/polySurface112
+        weight: 1
+      - path: Arbres/polySurface113
+        weight: 1
+      - path: Arbres/polySurface114
+        weight: 1
+      - path: Arbres/polySurface115
+        weight: 1
+      - path: Arbres/polySurface116
+        weight: 1
+      - path: Arbres/polySurface117
+        weight: 1
+      - path: Arbres/polySurface118
+        weight: 1
+      - path: Arbres/polySurface119
+        weight: 1
+      - path: Arbres/polySurface120
+        weight: 1
+      - path: Arbres/polySurface121
+        weight: 1
+      - path: Arbres/polySurface122
+        weight: 1
+      - path: Arbres/polySurface123
+        weight: 1
+      - path: Arbres/polySurface124
+        weight: 1
+      - path: Arbres/polySurface125
+        weight: 1
+      - path: Arbres/polySurface126
+        weight: 1
+      - path: Arbres/polySurface127
+        weight: 1
+      - path: Arbres/polySurface128
+        weight: 1
+      - path: Arbres/polySurface129
+        weight: 1
+      - path: Arbres/polySurface130
+        weight: 1
+      - path: Arbres/polySurface131
+        weight: 1
+      - path: Arbres/polySurface132
+        weight: 1
+      - path: Arbres/polySurface133
+        weight: 1
+      - path: Arbres/polySurface134
+        weight: 1
+      - path: Arbres/polySurface135
+        weight: 1
+      - path: Arbres/polySurface136
+        weight: 1
+      - path: Arbres/polySurface137
+        weight: 1
+      - path: Arbres/polySurface138
+        weight: 1
+      - path: Arbres/polySurface139
+        weight: 1
+      - path: Arbres/polySurface140
+        weight: 1
+      - path: Arbres/polySurface141
+        weight: 1
+      - path: Arbres/polySurface142
+        weight: 1
+      - path: Arbres/polySurface143
+        weight: 1
+      - path: Arbres/polySurface144
+        weight: 1
+      - path: Arbres/polySurface145
+        weight: 1
+      - path: Arbres/polySurface146
+        weight: 1
+      - path: Arbres/polySurface147
+        weight: 1
+      - path: Arbres/polySurface148
+        weight: 1
+      - path: Arbres/polySurface149
+        weight: 1
+      - path: Arbres/polySurface150
+        weight: 1
+      - path: Arbres/polySurface151
+        weight: 1
+      - path: Arbres/polySurface152
+        weight: 1
+      - path: Arbres/polySurface153
+        weight: 1
+      - path: Arbres/polySurface154
+        weight: 1
+      - path: Arbres/polySurface155
+        weight: 1
+      - path: Arbres/polySurface156
+        weight: 1
+      - path: Arbres/polySurface157
+        weight: 1
+      - path: Arbres/polySurface158
+        weight: 1
+      - path: Arbres/polySurface159
+        weight: 1
+      - path: Arbres/polySurface160
+        weight: 1
+      - path: Arbres/polySurface161
+        weight: 1
+      - path: Arbres/polySurface162
+        weight: 1
+      - path: Arbres/polySurface163
+        weight: 1
+      - path: Arbres/polySurface164
+        weight: 1
+      - path: Arbres/polySurface165
+        weight: 1
+      - path: Arbres/polySurface166
+        weight: 1
+      - path: Arbres/polySurface167
+        weight: 1
+      - path: Arbres/polySurface168
+        weight: 1
+      - path: Arbres/polySurface169
+        weight: 1
+      - path: Arbres/polySurface170
+        weight: 1
+      - path: Arbres/polySurface171
+        weight: 1
+      - path: Arbres/polySurface172
+        weight: 1
+      - path: Arbres/polySurface173
+        weight: 1
+      - path: Arbres/polySurface174
+        weight: 1
+      - path: Arbres/polySurface175
+        weight: 1
+      - path: Arbres/polySurface176
+        weight: 1
+      - path: Arbres/polySurface177
+        weight: 1
+      - path: Arbres/polySurface178
+        weight: 1
+      - path: Arbres/polySurface179
+        weight: 1
+      - path: Arbres/polySurface180
+        weight: 1
+      - path: Arbres/polySurface181
+        weight: 1
+      - path: Arbres/polySurface182
+        weight: 1
+      - path: Arbres/polySurface183
+        weight: 1
+      - path: Arbres/polySurface184
+        weight: 1
+      - path: Arbres/polySurface185
+        weight: 1
+      - path: Arbres/polySurface186
+        weight: 1
+      - path: Cups:Cups
+        weight: 1
+      - path: Cups:Cups/Cups:group1
+        weight: 1
+      - path: Cups:Cups/Cups:group1/Cups:polySurface18
+        weight: 1
+      - path: Cups:Cups/Cups:group1/Cups:polySurface20
+        weight: 1
+      - path: Cups:Cups/Cups:group1/Cups:polySurface21
+        weight: 1
+      - path: Cups:Cups/Cups:group1/Cups:polySurface22
+        weight: 1
+      - path: Cups:Cups/Cups:polySurface19
+        weight: 1
+      - path: Entrance
+        weight: 1
+      - path: Ferris_wheel:Ferris_Wheel
+        weight: 1
+      - path: Ferris_wheel:Ferris_Wheel/Ferris_wheel:Pieds
+        weight: 1
+      - path: Ferris_wheel:Ferris_Wheel/Ferris_wheel:Roue
+        weight: 1
+      - path: Ferris_wheel:Ferris_Wheel/Ferris_wheel:Roue/Ferris_wheel:Cabine_1
+        weight: 1
+      - path: Ferris_wheel:Ferris_Wheel/Ferris_wheel:Roue/Ferris_wheel:Cabine_2
+        weight: 1
+      - path: Ferris_wheel:Ferris_Wheel/Ferris_wheel:Roue/Ferris_wheel:Cabine_3
+        weight: 1
+      - path: Ferris_wheel:Ferris_Wheel/Ferris_wheel:Roue/Ferris_wheel:Cabine_4
+        weight: 1
+      - path: Ferris_wheel:Ferris_Wheel/Ferris_wheel:Roue/Ferris_wheel:Cabine_5
+        weight: 1
+      - path: Ferris_wheel:Ferris_Wheel/Ferris_wheel:Roue/Ferris_wheel:Cabine_6
+        weight: 1
+      - path: Ferris_wheel:Ferris_Wheel/Ferris_wheel:Roue/Ferris_wheel:Cabine_7
+        weight: 1
+      - path: Ferris_wheel:Ferris_Wheel/Ferris_wheel:Roue/Ferris_wheel:Cabine_8
+        weight: 1
+      - path: Ferris_wheel:Ferris_Wheel/Ferris_wheel:Roue/Ferris_wheel:Cabine_9
+        weight: 1
+      - path: Gate
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/tree_3:group1
+        weight: 1
+      - path: group1/tree_3:group1/tree_3:pCylinder1
+        weight: 1
+      - path: group1/tree_3:group1/tree_3:pCylinder2
+        weight: 1
+      - path: group1/tree_3:group1/tree_3:pCylinder3
+        weight: 1
+      - path: group1/tree_3:group1/tree_3:pSphere1
+        weight: 1
+      - path: group1/tree_3:group1/tree_3:pSphere2
+        weight: 1
+      - path: group1/tree_3:group1/tree_3:pSphere3
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/group1 1
+        weight: 1
+      - path: group2/group1 1/pCylinder1
+        weight: 1
+      - path: group2/group1 1/pCylinder2
+        weight: 1
+      - path: group2/group1 1/pCylinder3
+        weight: 1
+      - path: group2/group1 1/pSphere1
+        weight: 1
+      - path: group2/group1 1/pSphere2
+        weight: 1
+      - path: group2/group1 1/pSphere3
+        weight: 1
+      - path: group3
+        weight: 1
+      - path: group3/group1 2
+        weight: 1
+      - path: group3/group1 2/pCylinder1 1
+        weight: 1
+      - path: group3/group1 2/pCylinder2 1
+        weight: 1
+      - path: group3/group1 2/pCylinder3 1
+        weight: 1
+      - path: group3/group1 2/pSphere1 1
+        weight: 1
+      - path: group3/group1 2/pSphere2 1
+        weight: 1
+      - path: group3/group1 2/pSphere3 1
+        weight: 1
+      - path: group4
+        weight: 1
+      - path: group4/group1 3
+        weight: 1
+      - path: group4/group1 3/pCylinder1 2
+        weight: 1
+      - path: group4/group1 3/pCylinder2 2
+        weight: 1
+      - path: group4/group1 3/pCylinder3 2
+        weight: 1
+      - path: group4/group1 3/pSphere1 2
+        weight: 1
+      - path: group4/group1 3/pSphere2 2
+        weight: 1
+      - path: group4/group1 3/pSphere3 2
+        weight: 1
+      - path: group4/group8
+        weight: 1
+      - path: group4/group8/pCylinder1 7
+        weight: 1
+      - path: group4/group8/pCylinder2 7
+        weight: 1
+      - path: group4/group8/pCylinder3 7
+        weight: 1
+      - path: group4/group8/pSphere1 7
+        weight: 1
+      - path: group4/group8/pSphere2 7
+        weight: 1
+      - path: group4/group8/pSphere3 7
+        weight: 1
+      - path: group4/group9
+        weight: 1
+      - path: group4/group9/pCylinder1 8
+        weight: 1
+      - path: group4/group9/pCylinder2 8
+        weight: 1
+      - path: group4/group9/pCylinder3 8
+        weight: 1
+      - path: group4/group9/pSphere1 8
+        weight: 1
+      - path: group4/group9/pSphere2 8
+        weight: 1
+      - path: group4/group9/pSphere3 8
+        weight: 1
+      - path: group4/group10
+        weight: 1
+      - path: group4/group10/pCylinder1 3
+        weight: 1
+      - path: group4/group10/pCylinder2 3
+        weight: 1
+      - path: group4/group10/pCylinder3 3
+        weight: 1
+      - path: group4/group10/pSphere1 3
+        weight: 1
+      - path: group4/group10/pSphere2 3
+        weight: 1
+      - path: group4/group10/pSphere3 3
+        weight: 1
+      - path: group4/group11
+        weight: 1
+      - path: group4/group11/pCylinder1 4
+        weight: 1
+      - path: group4/group11/pCylinder2 4
+        weight: 1
+      - path: group4/group11/pCylinder3 4
+        weight: 1
+      - path: group4/group11/pSphere1 4
+        weight: 1
+      - path: group4/group11/pSphere2 4
+        weight: 1
+      - path: group4/group11/pSphere3 4
+        weight: 1
+      - path: group4/group12
+        weight: 1
+      - path: group4/group12/pCylinder1 5
+        weight: 1
+      - path: group4/group12/pCylinder2 5
+        weight: 1
+      - path: group4/group12/pCylinder3 5
+        weight: 1
+      - path: group4/group12/pSphere1 5
+        weight: 1
+      - path: group4/group12/pSphere2 5
+        weight: 1
+      - path: group4/group12/pSphere3 5
+        weight: 1
+      - path: group4/group13
+        weight: 1
+      - path: group4/group13/pCylinder1 6
+        weight: 1
+      - path: group4/group13/pCylinder2 6
+        weight: 1
+      - path: group4/group13/pCylinder3 6
+        weight: 1
+      - path: group4/group13/pSphere1 6
+        weight: 1
+      - path: group4/group13/pSphere2 6
+        weight: 1
+      - path: group4/group13/pSphere3 6
+        weight: 1
+      - path: group5
+        weight: 1
+      - path: group5/group1 4
+        weight: 1
+      - path: group5/group1 4/pCylinder1 9
+        weight: 1
+      - path: group5/group1 4/pCylinder2 9
+        weight: 1
+      - path: group5/group1 4/pCylinder3 9
+        weight: 1
+      - path: group5/group1 4/pSphere1 9
+        weight: 1
+      - path: group5/group1 4/pSphere2 9
+        weight: 1
+      - path: group5/group1 4/pSphere3 9
+        weight: 1
+      - path: group6
+        weight: 1
+      - path: group6/group1 5
+        weight: 1
+      - path: group6/group1 5/pCylinder1 10
+        weight: 1
+      - path: group6/group1 5/pCylinder2 10
+        weight: 1
+      - path: group6/group1 5/pCylinder3 10
+        weight: 1
+      - path: group6/group1 5/pSphere1 10
+        weight: 1
+      - path: group6/group1 5/pSphere2 10
+        weight: 1
+      - path: group6/group1 5/pSphere3 10
+        weight: 1
+      - path: group7
+        weight: 1
+      - path: group7/group1 6
+        weight: 1
+      - path: group7/group1 6/pCylinder1 11
+        weight: 1
+      - path: group7/group1 6/pCylinder2 11
+        weight: 1
+      - path: group7/group1 6/pCylinder3 11
+        weight: 1
+      - path: group7/group1 6/pSphere1 11
+        weight: 1
+      - path: group7/group1 6/pSphere2 11
+        weight: 1
+      - path: group7/group1 6/pSphere3 11
+        weight: 1
+      - path: Haunted_house:Haunted_House
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:Arbre_1
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:Arbre_1/Haunted_house:twist1Handle
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:Arbre_2
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:Arbre_2/Haunted_house:twist2Handle
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:Arbre_3
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:Arbre_3/Haunted_house:twist3Handle
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:Crosses
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:Crosses/Haunted_house:Cross_1
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:Crosses/Haunted_house:Cross_2
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:Crosses/Haunted_house:Cross_3
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:Crosses/Haunted_house:Cross_4
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:Crosses/Haunted_house:Cross_5
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:Crosses/Haunted_house:Cross_6
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:Crosses/Haunted_house:Cross_7
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:Crosses/Haunted_house:Cross_8
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Cheminee
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fences
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fences/Haunted_house:polySurface10
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fences/Haunted_house:polySurface11
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fences/Haunted_house:polySurface12
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fences/Haunted_house:polySurface13
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fences/Haunted_house:polySurface14
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fences/Haunted_house:polySurface15
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fences/Haunted_house:polySurface16
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fences/Haunted_house:polySurface17
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fences/Haunted_house:polySurface20
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fences/Haunted_house:polySurface21
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fences/Haunted_house:polySurface22
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fences/Haunted_house:polySurface28
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fenetres
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fenetres/Haunted_house:polySurface30
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fenetres/Haunted_house:polySurface31
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fenetres/Haunted_house:polySurface32
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fenetres/Haunted_house:polySurface33
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fenetres/Haunted_house:polySurface34
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fenetres/Haunted_house:polySurface35
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fenetres/Haunted_house:polySurface40
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fenetres/Haunted_house:polySurface41
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fenetres/Haunted_house:polySurface42
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fenetres/Haunted_house:polySurface43
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fenetres/Haunted_house:polySurface44
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fenetres/Haunted_house:polySurface45
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fenetres/Haunted_house:polySurface47
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fenetres/Haunted_house:polySurface48
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fenetres/Haunted_house:polySurface49
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Fenetres/Haunted_house:polySurface50
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:pCube1
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:pCube2
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:pCube3
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:pCube4
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Porte
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Porte1
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Porte2
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:pPlane1
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Toit1
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Toit2
+        weight: 1
+      - path: Haunted_house:Haunted_House/Haunted_house:House/Haunted_house:Toit3
+        weight: 1
+      - path: IceCream:IceCream_Stand
+        weight: 1
+      - path: IceCream:IceCream_Stand/IceCream:pCylinder1
+        weight: 1
+      - path: IceCream:IceCream_Stand/IceCream:pCylinder2
+        weight: 1
+      - path: IceCream:IceCream_Stand/IceCream:pCylinder3
+        weight: 1
+      - path: IceCream:IceCream_Stand/IceCream:polySurface41
+        weight: 1
+      - path: IceCream:IceCream_Stand/IceCream:polySurface42
+        weight: 1
+      - path: IceCream:IceCream_Stand/IceCream:polySurface62
+        weight: 1
+      - path: IceCream:IceCream_Stand/IceCream:polySurface65
+        weight: 1
+      - path: IceCream:IceCream_Stand/IceCream:polySurface66
+        weight: 1
+      - path: IceCream:IceCream_Stand/IceCream:polySurface67
+        weight: 1
+      - path: IceCream:IceCream_Stand/IceCream:polySurface76
+        weight: 1
+      - path: IceCream:IceCream_Stand/IceCream:polySurface78
+        weight: 1
+      - path: IceCream:IceCream_Stand/IceCream:polySurface80
+        weight: 1
+      - path: Land
+        weight: 1
+      - path: Land/polySurface14
+        weight: 1
+      - path: Land/polySurface15
+        weight: 1
+      - path: Land/polySurface16
+        weight: 1
+      - path: Land/polySurface17
+        weight: 1
+      - path: Land/polySurface18
+        weight: 1
+      - path: Land/polySurface19
+        weight: 1
+      - path: Land/polySurface20
+        weight: 1
+      - path: Land/polySurface21
+        weight: 1
+      - path: Land/polySurface22
+        weight: 1
+      - path: Land/polySurface23
+        weight: 1
+      - path: Land/polySurface24
+        weight: 1
+      - path: Land/polySurface25
+        weight: 1
+      - path: Land/polySurface26
+        weight: 1
+      - path: Land/polySurface27
+        weight: 1
+      - path: Land/polySurface28
+        weight: 1
+      - path: Land/polySurface29
+        weight: 1
+      - path: Land/polySurface30
+        weight: 1
+      - path: Land/polySurface31
+        weight: 1
+      - path: Land/polySurface32
+        weight: 1
+      - path: Land/polySurface33
+        weight: 1
+      - path: Land/polySurface34
+        weight: 1
+      - path: Land/polySurface35
+        weight: 1
+      - path: Land/polySurface36
+        weight: 1
+      - path: Land/polySurface37
+        weight: 1
+      - path: Land/polySurface38
+        weight: 1
+      - path: Land/polySurface39
+        weight: 1
+      - path: Land/polySurface40
+        weight: 1
+      - path: Land/polySurface41
+        weight: 1
+      - path: Land/polySurface42
+        weight: 1
+      - path: Land/polySurface43
+        weight: 1
+      - path: Land/polySurface44
+        weight: 1
+      - path: Land/polySurface45
+        weight: 1
+      - path: Land/polySurface46
+        weight: 1
+      - path: Land/polySurface47
+        weight: 1
+      - path: Land/polySurface48
+        weight: 1
+      - path: Land/polySurface49
+        weight: 1
+      - path: Land/polySurface50
+        weight: 1
+      - path: Land/polySurface51
+        weight: 1
+      - path: Land/polySurface52
+        weight: 1
+      - path: Land/polySurface53
+        weight: 1
+      - path: Land/polySurface54
+        weight: 1
+      - path: Land/polySurface55
+        weight: 1
+      - path: Land/polySurface56
+        weight: 1
+      - path: Land/polySurface57
+        weight: 1
+      - path: Land/polySurface58
+        weight: 1
+      - path: Land/polySurface59
+        weight: 1
+      - path: Land/polySurface60
+        weight: 1
+      - path: Land/polySurface61
+        weight: 1
+      - path: Land/polySurface62
+        weight: 1
+      - path: Park
+        weight: 1
+      - path: Park_Limit_Collision
+        weight: 1
+      - path: persp1
+        weight: 1
+      - path: River
+        weight: 1
+      - path: River/polySurface2 1
+        weight: 1
+      - path: River/polySurface3
+        weight: 1
+      - path: River/polySurface4
+        weight: 1
+      - path: River/polySurface5
+        weight: 1
+      - path: River/polySurface6
+        weight: 1
+      - path: River/polySurface7
+        weight: 1
+      - path: River/polySurface8
+        weight: 1
+      - path: River/polySurface9
+        weight: 1
+      - path: River/polySurface10
+        weight: 1
+      - path: River/polySurface11
+        weight: 1
+      - path: River/polySurface12
+        weight: 1
+      - path: River/polySurface13
+        weight: 1
+      - path: Swan
+        weight: 1
+      - path: Swan/swan_bush:polySurface1
+        weight: 1
+      - path: Swan/swan_bush:polySurface2
+        weight: 1
+      - path: Swan/swan_bush:polySurface3
+        weight: 1
+      - path: Swan/swan_bush:polySurface4
+        weight: 1
+      - path: Swan/swan_bush:polySurface5
+        weight: 1
+      - path: Swan1
+        weight: 1
+      - path: Swan1/polySurface1
+        weight: 1
+      - path: Swan1/polySurface2 2
+        weight: 1
+      - path: Swan1/polySurface3 1
+        weight: 1
+      - path: Swan1/polySurface4 1
+        weight: 1
+      - path: Swan1/polySurface5 1
+        weight: 1
+      - path: Swan2
+        weight: 1
+      - path: Swan2/polySurface1 1
+        weight: 1
+      - path: Swan2/polySurface2 3
+        weight: 1
+      - path: Swan2/polySurface3 2
+        weight: 1
+      - path: Swan2/polySurface4 2
+        weight: 1
+      - path: Swan2/polySurface5 2
+        weight: 1
+      - path: Swan3
+        weight: 1
+      - path: Swan3/polySurface1 2
+        weight: 1
+      - path: Swan3/polySurface2 4
+        weight: 1
+      - path: Swan3/polySurface3 3
+        weight: 1
+      - path: Swan3/polySurface4 3
+        weight: 1
+      - path: Swan3/polySurface5 3
+        weight: 1
+      - path: Swan4
+        weight: 1
+      - path: Swan4/polySurface1 3
+        weight: 1
+      - path: Swan4/polySurface2 5
+        weight: 1
+      - path: Swan4/polySurface3 4
+        weight: 1
+      - path: Swan4/polySurface4 4
+        weight: 1
+      - path: Swan4/polySurface5 4
+        weight: 1
+      - path: Swan5
+        weight: 1
+      - path: Swan5/polySurface1 4
+        weight: 1
+      - path: Swan5/polySurface2 6
+        weight: 1
+      - path: Swan5/polySurface3 5
+        weight: 1
+      - path: Swan5/polySurface4 5
+        weight: 1
+      - path: Swan5/polySurface5 5
+        weight: 1
+      - path: tree_1:pCylinder1
+        weight: 1
+      - path: tree_1:pCylinder1/tree_1:transform4
+        weight: 1
+      - path: tree_1:polySurface1
+        weight: 1
+      - path: tree_1:polySurface1/tree_1:transform5
+        weight: 1
+      - path: tree_1:pPlane1
+        weight: 1
+      - path: tree_1:pPlane1/tree_1:transform3
+        weight: 1
+      - path: tree_1:pPlane2
+        weight: 1
+      - path: tree_1:pPlane2/tree_1:transform2
+        weight: 1
+      - path: tree_1:pPlane3
+        weight: 1
+      - path: tree_1:pPlane3/tree_1:transform1
+        weight: 1
+      - path: water_slide:WaterSlide
+        weight: 1
+      - path: water_slide:WaterSlide/water_slide:Log
+        weight: 1
+      - path: water_slide:WaterSlide/water_slide:Log/water_slide:SplashArB
+        weight: 1
+      - path: water_slide:WaterSlide/water_slide:Log/water_slide:SplashArB1
+        weight: 1
+      - path: water_slide:WaterSlide/water_slide:Log/water_slide:SplashArT
+        weight: 1
+      - path: water_slide:WaterSlide/water_slide:Log/water_slide:SplashArT1
+        weight: 1
+      - path: water_slide:WaterSlide/water_slide:Log/water_slide:SplashAvB
+        weight: 1
+      - path: water_slide:WaterSlide/water_slide:Log/water_slide:SplashAvT
+        weight: 1
+      - path: water_slide:WaterSlide/water_slide:pCube1
+        weight: 1
+      - path: water_slide:WaterSlide/water_slide:polySurface4
+        weight: 1
+      - path: water_slide:WaterSlide/water_slide:polySurface5
+        weight: 1
+      - path: water_slide:WaterSlide/water_slide:pPlane2
+        weight: 1
+      - path: water_slide:WaterSlide/water_slide:Trees
+        weight: 1
+      - path: water_slide:WaterSlide/water_slide:Trees/water_slide:polySurface17
+        weight: 1
+      - path: water_slide:WaterSlide/water_slide:Trees/water_slide:polySurface18
+        weight: 1
+      - path: water_slide:WaterSlide/water_slide:Trees/water_slide:polySurface19
+        weight: 1
+      - path: water_slide:WaterSlide/water_slide:Trees/water_slide:polySurface20
+        weight: 1
+      - path: water_slide:WaterSlide/water_slide:Trees/water_slide:polySurface21
+        weight: 1
+      - path: water_slide:WaterSlide/water_slide:Trees/water_slide:polySurface22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

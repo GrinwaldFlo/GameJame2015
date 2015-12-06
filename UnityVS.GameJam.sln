@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.GameJam.CSharp", "UnityVS.GameJam.CSharp.csproj", "{46F34B91-5C37-FCFC-1522-2638B0F02B29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.GameJam.CSharp.Editor", "UnityVS.GameJam.CSharp.Editor.csproj", "{92CBC57E-3F76-9B0A-0890-ACBE60786905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F34B91-5C37-FCFC-1522-2638B0F02B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F34B91-5C37-FCFC-1522-2638B0F02B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F34B91-5C37-FCFC-1522-2638B0F02B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F34B91-5C37-FCFC-1522-2638B0F02B29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92CBC57E-3F76-9B0A-0890-ACBE60786905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CBC57E-3F76-9B0A-0890-ACBE60786905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CBC57E-3F76-9B0A-0890-ACBE60786905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CBC57E-3F76-9B0A-0890-ACBE60786905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
